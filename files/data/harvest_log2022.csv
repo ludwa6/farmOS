@@ -1,0 +1,496 @@
+species,Areas,Quantity value,Notes,Asset names,Log name,Done,Date,Archive assets,Quantity label,Lot number,Categories,Quantity measure,Quantity unit
+Butternut,HortasDoVale-East (HDVE) - bed 27,"2,6",,2021-W33 Butternut HVE27-S,harvest from 2021-W33 Butternut HVE27-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Hokkaido,HortasDoVale-East (HDVE) - bed 27,"4,8",,2021-W33 Hokkaido HVE27-N,harvest from 2021-W33 Hokkaido HVE27-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 13 north section,5,,2021-W27 Swiss chard HVW13-N,harvest from 2021-W27 Swiss chard HVW13-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 15 south section,1,,2021-W36 Swiss chard HVW15-S,harvest from 2021-W36 Swiss chard HVW15-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 4 north section,10,,2020-0 Swiss chard Autumn HVW04-N,harvest from 2020-0 Swiss chard Autumn HVW04-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Celery,Summer Green House (SGH) - bed 3 north section,5,,2021-W27 Celery SGH3-N,harvest from 2021-W27 Celery SGH3-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 5,"4,5",,2021-W24 Celery HVW05-S,harvest from 2021-W24 Celery HVW05-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 11,"0,6",,2021-W43 Lettuce HVE11-N,harvest from 2021-W43 Lettuce HVE11-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-West (HDVW) - bed 15 south section,"1,8",,2021-W42 Lambs lettuce HVW15-S,harvest from 2021-W42 Lambs lettuce HVW15-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-West (HDVW) - bed 18,"5,1",,2021-W43 Lettuce HVW18-N,harvest from 2021-W43 Lettuce HVW18-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-West (HDVW) - bed 18 north section,"1,3",,2021-W43 Lettuce HVW18-N,harvest from 2021-W43 Lettuce HVW18-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 13 south section,"6,3",,2021-W32 Leek HVE13-S,harvest from 2021-W32 Leek HVE13-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Dill,HortasDoVale-West (HDVW) - bed 15 south section,"0,2",,2021-W36 Dill HVW15-S,harvest from 2021-W36 Dill HVW15-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Aubergine,HortasDoVale-West (HDVW) - bed 14,"0,5",,2021-W15 Aubergine HVW14,harvest from 2021-W15 Aubergine HVW14,TRUE,2022-01-03,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-West (HDVW) - bed 16,"7,6",,2021-W39 Beetroot HVW16,harvest from 2021-W39 Beetroot HVW16,TRUE,2022-01-03,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"1,5",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"1,4",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,"4,27",,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-01-03,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,"1,5",,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-01-03,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 2 north section,"1,875",,2021-W44 Coriander SGH2-N,harvest from 2021-W44 Coriander SGH2-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Coriander,Winter Green House - bed 3,2,,2021-W46 Coriander WGH3,harvest from 2021-W46 Coriander WGH3,TRUE,2022-01-03,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,5",,2021-W39 Curly kale HVW16-N,harvest from 2021-W39 Curly kale HVW16-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 4 south section,"5,65",,2021-W36 Green cabbage HVW04-S,harvest from 2021-W36 Green cabbage HVW04-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 4 south section,"1,4",,2021-W37 Kolrabi HVW04-S,harvest from 2021-W37 Kolrabi HVW04-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,75",,2021-W39 Dinossaur kale HVW16-N,harvest from 2021-W39 Dinossaur kale HVW16-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"3,25",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 3,"3,1",,2021-W41 Zuccini WGH3,harvest from 2021-W41 Zuccini WGH3,TRUE,2022-01-03,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"0,9",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-01-03,,,,plantings,weight,Kg
+Zuccini,HortasDoVale-West (HDVW) - bed 5,"2,4",,2021-W23 Zuccini HVW05-N,harvest from 2021-W23 Zuccini HVW05-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Green beans dwarf normal,HortasDoVale-East (HDVE) - bed 26 south section,"0,9",,2021-W36 Green beans dwarf normal HVE26-S,harvest from 2021-W36 Green beans dwarf normal HVE26-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Fennel,HortasDoVale-West (HDVW) - bed 23,"1,2",,2021-W36 Fennel bulb HVW23-N,harvest from 2021-W36 Fennel bulb HVW23-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Fennel,HortasDoVale-West (HDVW) - bed 23 north section,"1,7",,2021-W36 Fennel bulb HVW23-N,harvest from 2021-W36 Fennel bulb HVW23-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 north section,"0,95",,2021-W34 Sprouting turnip HVE25-N,harvest from 2021-W34 Sprouting turnip HVE25-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Hot peppers,HortasDoVale-West (HDVW) - bed 20 south section,"0,23",,2021-W24 Hot peppers HVW20-S,harvest from 2021-W24 Hot peppers HVW20-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Mizuna green,Summer Green House (SGH) - bed 2 north section,"1,2",,2021-W44 Mizuna green SGH2-N,harvest from 2021-W44 Mizuna green SGH2-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,4,,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-01-03,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"4,35",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-01-03,,,,plantings,weight,Kg
+Turnip greens,HortasDoVale-East (HDVE) - bed 25 north section,"2,8",,2021-W34 Turnip greens HVE25-N,harvest from 2021-W34 Turnip greens HVE25-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Turnip greens,HortasDoVale-East (HDVE) - bed 25 south section,"1,2",,2021-W38 Turnip greens HVE25-S,harvest from 2021-W38 Turnip greens HVE25-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Turnip,HortasDoVale-West (HDVW) - bed 18 south section,"13,7",,2021-W39 Turnip HVW18-S,harvest from 2021-W39 Turnip HVW18-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 20 north section,"2,5",,2021-W24 Peppers HVW20-N,harvest from 2021-W24 Peppers HVW20-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 5 south section,"0,5",,2021-W24 Peppers HVW05-S,harvest from 2021-W24 Peppers HVW05-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Peppers,Winter Green House - bed 2,"0,75",,2021-W35 Peppers WGH2,harvest from 2021-W35 Peppers WGH2,TRUE,2022-01-03,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 20 north section,4,,2021-W24 Peppers HVW20-N,harvest from 2021-W24 Peppers HVW20-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 5 south section,"1,27",,2021-W24 Peppers HVW05-S,harvest from 2021-W24 Peppers HVW05-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Radishes,HortasDoVale-East (HDVE) - bed 13 north section,6,,2021-W43 Radishes HVE13-N,harvest from 2021-W43 Radishes HVE13-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-West (HDVW) - bed 10 south section,"4,3",,2021-W34 Horse radish HVW10-S,harvest from 2021-W34 Horse radish HVW10-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 north section,2,,2021-W34 Rucula HVW23-N,harvest from 2021-W34 Rucula HVW23-N,TRUE,2022-01-03,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 3 south section,1,,2021-W45 Parsley SGH3-S,harvest from 2021-W45 Parsley SGH3-S,TRUE,2022-01-03,,,,plantings,weight,Kg
+Tomato roma,Winter Green House - bed 2,"11,15",,2021-W34 Tomato roma WGH2,harvest from 2021-W34 Tomato roma WGH2,TRUE,2022-01-03,,,,plantings,weight,Kg
+Tomatos small,Winter Green House - bed 1,"0,35",,2021-W13 Tomatos small WGH1,harvest from 2021-W13 Tomatos small WGH1,TRUE,2022-01-03,,,,plantings,weight,Kg
+Tomatos varied,Winter Green House - bed 1,"3,2",,2021-W13 Tomatos varied WGH1,harvest from 2021-W13 Tomatos varied WGH1,TRUE,2022-01-03,,,,plantings,weight,Kg
+species,Areas,Quantity value,Notes,Asset names,Log name,Done,Date,Archive assets,Quantity label,Lot number,Categories,Quantity measure,Quantity unit
+Swiss chard,HortasDoVale-West (HDVW) - bed 13 north section,"5,5",,2021-W27 Swiss chard HVW13-N,harvest from 2021-W27 Swiss chard HVW13-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 15 south section,"5,5",,2021-W36 Swiss chard HVW15-S,harvest from 2021-W36 Swiss chard HVW15-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 4 north section,4,,2020-0 Swiss chard Autumn HVW04-N,harvest from 2020-0 Swiss chard Autumn HVW04-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 1,"8,9",,2021-W27 Celery HVW01-S,harvest from 2021-W27 Celery HVW01-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 5,"3,4",,2021-W24 Celery HVW05-S,harvest from 2021-W24 Celery HVW05-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 11,"0,6",,2021-W43 Lettuce HVE11-N,harvest from 2021-W43 Lettuce HVE11-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-West (HDVW) - bed 15 south section,2,,2021-W42 Lambs lettuce HVW15-S,harvest from 2021-W42 Lambs lettuce HVW15-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-West (HDVW) - bed 18,"5,4",,2021-W43 Lettuce HVW18-N,harvest from 2021-W43 Lettuce HVW18-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Lettuce,Winter Green House - bed 6,"0,8",,2021-W47 Lettuce WGH6,harvest from 2021-W47 Lettuce WGH6,TRUE,2022-01-10,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 13 south section,"16,2",,2021-W32 Leek HVE13-S,harvest from 2021-W32 Leek HVE13-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Dill,HortasDoVale-West (HDVW) - bed 15 south section,"0,1",,2021-W36 Dill HVW15-S,harvest from 2021-W36 Dill HVW15-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Aubergine,HortasDoVale-West (HDVW) - bed 14,"0,4",,2021-W15 Aubergine HVW14,harvest from 2021-W15 Aubergine HVW14,TRUE,2022-01-10,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-West (HDVW) - bed 16,"6,5",,2021-W39 Beetroot HVW16,harvest from 2021-W39 Beetroot HVW16,TRUE,2022-01-10,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"0,7",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"0,15",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"1,55",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,"3,4",,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-01-10,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,4,,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-01-10,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 3,6,,2021-W38 Carrot HVE03,harvest from 2021-W38 Carrot HVE03,TRUE,2022-01-10,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 2 north section,"4,125",,2021-W44 Coriander SGH2-N,harvest from 2021-W44 Coriander SGH2-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,25",,2021-W39 Curly kale HVW16-N,harvest from 2021-W39 Curly kale HVW16-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 19,"1,1",,2021-W32 Green cabbage HVW19,harvest from 2021-W32 Green cabbage HVW19,TRUE,2022-01-10,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 4 south section,"5,1",,2021-W36 Green cabbage HVW04-S,harvest from 2021-W36 Green cabbage HVW04-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 4 south section,"1,9",,2021-W37 Kolrabi HVW04-S,harvest from 2021-W37 Kolrabi HVW04-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 16 north section,"1,55",,2021-W39 Dinossaur kale HVW16-N,harvest from 2021-W39 Dinossaur kale HVW16-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"3,45",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Brussel sprouts,HortasDoVale-West (HDVW) - bed 11 south section,"2,5",,2021-W34 Brussel sprouts HVW11-S,harvest from 2021-W34 Brussel sprouts HVW11-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-West (HDVW) - bed 4 south section,"0,6",,2021-W36 Coaulifower HVW04-S,harvest from 2021-W36 Coaulifower HVW04-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Zuccini,HortasDoVale-West (HDVW) - bed 5,"2,8",,2021-W23 Zuccini HVW05-N,harvest from 2021-W23 Zuccini HVW05-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"1,15",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-01-10,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-East (HDVE) - bed 16 south section,"3,5",,2021-W47 Spinaches HVE16-S,harvest from 2021-W47 Spinaches HVE16-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-West (HDVW) - bed 15 south section,"1,5",,2021-W41 Spinaches HVW15-S,harvest from 2021-W41 Spinaches HVW15-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+N.Z. Spinaches,HortasDoVale-West (HDVW) - bed 23 south section,"4,4",,2021-W38 N.Z. Spinaches HVW23-S,harvest from 2021-W38 N.Z. Spinaches HVW23-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Fennel,HortasDoVale-West (HDVW) - bed 23 north section,"2,3",,2021-W36 Fennel bulb HVW23-N,harvest from 2021-W36 Fennel bulb HVW23-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 north section,"0,8",,2021-W43 Sprouting turnip HVE12-N,harvest from 2021-W43 Sprouting turnip HVE12-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 south section,"2,3",,2021-W38 Sprouting turnip HVE25-S,harvest from 2021-W38 Sprouting turnip HVE25-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Hot peppers,HortasDoVale-West (HDVW) - bed 20 south section,"0,2",,2021-W24 Hot peppers HVW20-S,harvest from 2021-W24 Hot peppers HVW20-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 16 north section,1,,2021-W46 Mizuna purple HVE16-N,harvest from 2021-W46 Mizuna purple HVE16-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-West (HDVW) - bed 23 north section,"1,1",,2021-W34 Mizuna purple HVW23-N,harvest from 2021-W34 Mizuna purple HVW23-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Mizuna green,Summer Green House (SGH) - bed 2 north section,"1,3",,2021-W44 Mizuna green SGH2-N,harvest from 2021-W44 Mizuna green SGH2-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Mizuna green,Summer Green House (SGH) - bed 2 north section,"1,2",,2021-W44 Mizuna green SGH2-N,harvest from 2021-W44 Mizuna green SGH2-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"1,32",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-01-10,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"1,52",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-01-10,,,,plantings,weight,Kg
+Turnip greens,HortasDoVale-East (HDVE) - bed 25 south section,"2,2",,2021-W38 Turnip greens HVE25-S,harvest from 2021-W38 Turnip greens HVE25-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Turnip,HortasDoVale-West (HDVW) - bed 18 south section,"7,2",,2021-W39 Turnip HVW18-S,harvest from 2021-W39 Turnip HVW18-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 20 north section,"0,46",,2021-W24 Peppers HVW20-N,harvest from 2021-W24 Peppers HVW20-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 5 south section,"1,6",,2021-W24 Peppers HVW05-S,harvest from 2021-W24 Peppers HVW05-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Padron peppers,HortasDoVale-West (HDVW) - bed 20 south section,"0,52",,2021-W24 Padron peppers HVW20-S,harvest from 2021-W24 Padron peppers HVW20-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 20 north section,"0,6",,2021-W24 Peppers HVW20-N,harvest from 2021-W24 Peppers HVW20-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Radishes,HortasDoVale-East (HDVE) - bed 13 north section,"5,1",,2021-W43 Radishes HVE13-N,harvest from 2021-W43 Radishes HVE13-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-West (HDVW) - bed 10 south section,"6,03",,2021-W34 Horse radish HVW10-S,harvest from 2021-W34 Horse radish HVW10-S,TRUE,2022-01-10,,,,plantings,weight,Kg
+Rucula,HortasDoVale-East (HDVE) - bed 16 north section,"2,1",,2021-W46 Rucula HVE16-N,harvest from 2021-W46 Rucula HVE16-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 north section,"2,2",,2021-W34 Rucula HVW23-N,harvest from 2021-W34 Rucula HVW23-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 3 north section,"0,9",,2021-W27 Parsley SGH3-N,harvest from 2021-W27 Parsley SGH3-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 4 north section,"0,3",,2021-W29 Parsley SGH4-N,harvest from 2021-W29 Parsley SGH4-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Parsley,HortasDoVale-West (HDVW) - bed 15 north section,"1,05",,2021-W31 Parsley HVW15-N,harvest from 2021-W31 Parsley HVW15-N,TRUE,2022-01-10,,,,plantings,weight,Kg
+Tomato roma,Winter Green House - bed 2,6,,2021-W34 Tomato roma WGH2,harvest from 2021-W34 Tomato roma WGH2,TRUE,2022-01-10,,,,plantings,weight,Kg
+Tomatos varied,Winter Green House - bed 1,"0,66",,2021-W13 Tomatos varied WGH1,harvest from 2021-W13 Tomatos varied WGH1,TRUE,2022-01-10,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 13 north section,"2,3",,2021-W27 Swiss chard HVW13-N,harvest from 2021-W27 Swiss chard HVW13-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 15 south section,"3,6",,2021-W36 Swiss chard HVW15-S,harvest from 2021-W36 Swiss chard HVW15-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 1,"6,5",,2021-W27 Celery HVW01-S,harvest from 2021-W27 Celery HVW01-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 15 north section,"1,4",,2021-W31 Celery HVW15-N,harvest from 2021-W31 Celery HVW15-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 5,"0,75",,2021-W24 Celery HVW05-S,harvest from 2021-W24 Celery HVW05-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 8,"3,2",,2021-W22 Celery HVW08-N,harvest from 2021-W22 Celery HVW08-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Lettuce,Winter Green House - bed 6,7,,2021-W47 Lettuce WGH6,harvest from 2021-W47 Lettuce WGH6,TRUE,2022-01-17,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 13 south section,"15,3",,2021-W32 Leek HVE13-S,harvest from 2021-W32 Leek HVE13-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Aubergine,HortasDoVale-West (HDVW) - bed 14,"0,65",,2021-W15 Aubergine HVW14,harvest from 2021-W15 Aubergine HVW14,TRUE,2022-01-17,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-East (HDVE) - bed 11,"9,9",,2021-W42 Beetroot HVE11-N,harvest from 2021-W42 Beetroot HVE11-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-West (HDVW) - bed 16,"2,9",,2021-W39 Beetroot HVW16,harvest from 2021-W39 Beetroot HVW16,TRUE,2022-01-17,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"0,8",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"1,5",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,7,,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-01-17,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,"4,32",,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-01-17,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 2,7,,2021-W22 Carrot HVE02,harvest from 2021-W22 Carrot HVE02,TRUE,2022-01-17,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 2 north section,2,,2021-W44 Coriander SGH2-N,harvest from 2021-W44 Coriander SGH2-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Coriander,Winter Green House - bed 2,"1,55",,#N/A,#N/A,TRUE,2022-01-17,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,25",,2021-W39 Curly kale HVW16-N,harvest from 2021-W39 Curly kale HVW16-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-East (HDVE) - bed 11 south section,"4,3",,2021-W42 Green cabbage HVE11-S,harvest from 2021-W42 Green cabbage HVE11-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 18 north section,"0,76",,2021-W43 Kolrabi HVW18-N,harvest from 2021-W43 Kolrabi HVW18-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 16 north section,"1,25",,2021-W39 Dinossaur kale HVW16-N,harvest from 2021-W39 Dinossaur kale HVW16-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"2,75",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-East (HDVE) - bed 11 south section,"1,5",,2021-W42 Coaulifower HVE11-S,harvest from 2021-W42 Coaulifower HVE11-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 3,"0,7",,2021-W41 Zuccini WGH3,harvest from 2021-W41 Zuccini WGH3,TRUE,2022-01-17,,,,plantings,weight,Kg
+Zuccini,HortasDoVale-West (HDVW) - bed 5,"2,2",,2021-W23 Zuccini HVW05-N,harvest from 2021-W23 Zuccini HVW05-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-East (HDVE) - bed 16 south section,"6,3",,2021-W47 Spinaches HVE16-S,harvest from 2021-W47 Spinaches HVE16-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+N.Z. Spinaches,HortasDoVale-West (HDVW) - bed 23 south section,"3,5",,2021-W38 N.Z. Spinaches HVW23-S,harvest from 2021-W38 N.Z. Spinaches HVW23-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 north section,"0,4",,2021-W43 Sprouting turnip HVE12-N,harvest from 2021-W43 Sprouting turnip HVE12-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 south section,"0,4",,2021-W38 Sprouting turnip HVE25-S,harvest from 2021-W38 Sprouting turnip HVE25-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Hot peppers,HortasDoVale-West (HDVW) - bed 20 south section,"0,1",,2021-W24 Hot peppers HVW20-S,harvest from 2021-W24 Hot peppers HVW20-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 16 north section,"1,3",,2021-W46 Mizuna green HVE16-N,harvest from 2021-W46 Mizuna green HVE16-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Mizuna green,Summer Green House (SGH) - bed 2 north section,"1,3",,2021-W44 Mizuna green SGH2-N,harvest from 2021-W44 Mizuna green SGH2-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"1,75",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-01-17,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"1,85",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-01-17,,,,plantings,weight,Kg
+Turnip,HortasDoVale-West (HDVW) - bed 18 south section,"14,1",,2021-W39 Turnip HVW18-S,harvest from 2021-W39 Turnip HVW18-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 20 north section,"1,6",,2021-W24 Peppers HVW20-N,harvest from 2021-W24 Peppers HVW20-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Padron peppers,HortasDoVale-West (HDVW) - bed 20 south section,"0,18",,2021-W24 Padron peppers HVW20-S,harvest from 2021-W24 Padron peppers HVW20-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 20 north section,"0,66",,2021-W24 Peppers HVW20-N,harvest from 2021-W24 Peppers HVW20-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Radishes,HortasDoVale-East (HDVE) - bed 13 north section,"0,8",,2021-W43 Radishes HVE13-N,harvest from 2021-W43 Radishes HVE13-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-West (HDVW) - bed 10 south section,"16,1",,2021-W34 Horse radish HVW10-S,harvest from 2021-W34 Horse radish HVW10-S,TRUE,2022-01-17,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 north section,"4,6",,2021-W34 Rucula HVW23-N,harvest from 2021-W34 Rucula HVW23-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 4 north section,"0,4",,2021-W29 Parsley SGH4-N,harvest from 2021-W29 Parsley SGH4-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Parsley,HortasDoVale-West (HDVW) - bed 15 north section,"0,7",,2021-W31 Parsley HVW15-N,harvest from 2021-W31 Parsley HVW15-N,TRUE,2022-01-17,,,,plantings,weight,Kg
+Tomato roma,Winter Green House - bed 2,1,,2021-W34 Tomato roma WGH2,harvest from 2021-W34 Tomato roma WGH2,TRUE,2022-01-17,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 1 south section,"0,5",,2021-W19 Swiss chard SGH1-S,harvest from 2021-W19 Swiss chard SGH1-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 2 south section,"0,5",,2021-W19 Swiss chard SGH2-S,harvest from 2021-W19 Swiss chard SGH2-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 13 north section,"2,4",,2021-W27 Swiss chard HVW13-N,harvest from 2021-W27 Swiss chard HVW13-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 15 south section,"2,4",,2021-W36 Swiss chard HVW15-S,harvest from 2021-W36 Swiss chard HVW15-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 4 north section,"3,3",,2020-0 Swiss chard Autumn HVW04-N,harvest from 2020-0 Swiss chard Autumn HVW04-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Celery,Summer Green House (SGH) - bed 3 north section,"3,4",,2021-W27 Celery SGH3-N,harvest from 2021-W27 Celery SGH3-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 1,"6,2",,2021-W27 Celery HVW01-S,harvest from 2021-W27 Celery HVW01-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 15 north section,"1,2",,2021-W31 Celery HVW15-N,harvest from 2021-W31 Celery HVW15-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 8,"2,4",,2021-W22 Celery HVW08-N,harvest from 2021-W22 Celery HVW08-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 11,"0,4",,2021-W43 Lettuce HVE11-N,harvest from 2021-W43 Lettuce HVE11-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-West (HDVW) - bed 15 south section,1,,2021-W42 Lambs lettuce HVW15-S,harvest from 2021-W42 Lambs lettuce HVW15-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-West (HDVW) - bed 18,"0,6",,2021-W43 Lettuce HVW18-N,harvest from 2021-W43 Lettuce HVW18-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Lettuce,Winter Green House - bed 6,"6,5",,2021-W47 Lettuce WGH6,harvest from 2021-W47 Lettuce WGH6,TRUE,2022-01-24,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 26 north section,"15,6",,2021-W36 Leek HVE26-N,harvest from 2021-W36 Leek HVE26-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Dill,HortasDoVale-West (HDVW) - bed 15 south section,"0,1",,2021-W36 Dill HVW15-S,harvest from 2021-W36 Dill HVW15-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-East (HDVE) - bed 11,7,,2021-W42 Beetroot HVE11-N,harvest from 2021-W42 Beetroot HVE11-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"1,5",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"1,2",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,"5,6",,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-01-24,,,,plantings,weight,Kg
+Lambs lettuce,HortasDoVale-East (HDVE) - bed 16 north section,"1,22",,2021-W47 Lambs lettuce HVE16-N,harvest from 2021-W47 Lambs lettuce HVE16-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,"2,35",,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-01-24,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 2,"6,33",,2021-W22 Carrot HVE02,harvest from 2021-W22 Carrot HVE02,TRUE,2022-01-24,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 3,"4,8",,2021-W38 Carrot HVE03,harvest from 2021-W38 Carrot HVE03,TRUE,2022-01-24,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 4 north section,"1,575",,2021-W35 Coriander SGH4-N,harvest from 2021-W35 Coriander SGH4-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-East (HDVE) - bed 11 south section,"4,9",,2021-W42 Green cabbage HVE11-S,harvest from 2021-W42 Green cabbage HVE11-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 18 north section,"1,4",,2021-W43 Green cabbage HVW18-N,harvest from 2021-W43 Green cabbage HVW18-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 18 north section,"1,5",,2021-W43 Kolrabi HVW18-N,harvest from 2021-W43 Kolrabi HVW18-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 4 south section,"0,6",,2021-W37 Kolrabi HVW04-S,harvest from 2021-W37 Kolrabi HVW04-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,5",,2021-W39 Dinossaur kale HVW16-N,harvest from 2021-W39 Dinossaur kale HVW16-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"1,75",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Brussel sprouts,HortasDoVale-West (HDVW) - bed 11 south section,1,,2021-W34 Brussel sprouts HVW11-S,harvest from 2021-W34 Brussel sprouts HVW11-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Leef cabbage,HortasDoVale-West (HDVW) - bed 11 south section,"2,8",,2021-W34 Leef cabbage HVW11-S,harvest from 2021-W34 Leef cabbage HVW11-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-East (HDVE) - bed 11 south section,"5,5",,2021-W42 Coaulifower HVE11-S,harvest from 2021-W42 Coaulifower HVE11-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 3,"0,2",,2021-W41 Zuccini WGH3,harvest from 2021-W41 Zuccini WGH3,TRUE,2022-01-24,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"1,8",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-01-24,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-East (HDVE) - bed 16 south section,"4,1",,2021-W47 Spinaches HVE16-S,harvest from 2021-W47 Spinaches HVE16-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+N.Z. Spinaches,HortasDoVale-West (HDVW) - bed 23 south section,"3,3",,2021-W38 N.Z. Spinaches HVW23-S,harvest from 2021-W38 N.Z. Spinaches HVW23-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 north section,"0,2",,2021-W43 Sprouting turnip HVE12-N,harvest from 2021-W43 Sprouting turnip HVE12-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 south section,"1,6",,2021-W38 Sprouting turnip HVE25-S,harvest from 2021-W38 Sprouting turnip HVE25-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Hot peppers,HortasDoVale-West (HDVW) - bed 20 south section,"0,16",,2021-W24 Hot peppers HVW20-S,harvest from 2021-W24 Hot peppers HVW20-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 16 north section,"1,6",,2021-W46 Mizuna purple HVE16-N,harvest from 2021-W46 Mizuna purple HVE16-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 16 north section,"1,8",,2021-W46 Mizuna green HVE16-N,harvest from 2021-W46 Mizuna green HVE16-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"3,2",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-01-24,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"3,1",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-01-24,,,,plantings,weight,Kg
+Turnip greens,HortasDoVale-East (HDVE) - bed 25 south section,"1,7",,2021-W38 Turnip greens HVE25-S,harvest from 2021-W38 Turnip greens HVE25-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Turnip,HortasDoVale-East (HDVE) - bed 13 north section,"4,2",,2021-W43 Turnip HVE13-N,harvest from 2021-W43 Turnip HVE13-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Turnip,HortasDoVale-West (HDVW) - bed 18 south section,"11,1",,2021-W39 Turnip HVW18-S,harvest from 2021-W39 Turnip HVW18-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Padron peppers,HortasDoVale-West (HDVW) - bed 20 south section,395,,2021-W24 Padron peppers HVW20-S,harvest from 2021-W24 Padron peppers HVW20-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Radishes,HortasDoVale-East (HDVE) - bed 15 north section,"4,6",,2021-W48 Radishes HVE15-N,harvest from 2021-W48 Radishes HVE15-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Radishes,Winter Green House - bed 5,"2,6",,2022-W04 Radishes WGH5,harvest from 2022-W04 Radishes WGH5,TRUE,2022-01-24,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-East (HDVE) - bed 12 north section,"2,3",,2021-W43 Horse radish HVE12-N,harvest from 2021-W43 Horse radish HVE12-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-East (HDVE) - bed 15 north section,"3,9",,2021-W48 Horse radish HVE15-N,harvest from 2021-W48 Horse radish HVE15-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Rucula,HortasDoVale-East (HDVE) - bed 16 north section,"1,2",,2021-W46 Rucula HVE16-N,harvest from 2021-W46 Rucula HVE16-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 north section,"0,5",,2021-W34 Rucula HVW23-N,harvest from 2021-W34 Rucula HVW23-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 south section,"1,8",,2021-W37 Rucula HVW23-S,harvest from 2021-W37 Rucula HVW23-S,TRUE,2022-01-24,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 3 north section,"0,21",,2021-W27 Parsley SGH3-N,harvest from 2021-W27 Parsley SGH3-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 4 north section,"0,5",,2021-W29 Parsley SGH4-N,harvest from 2021-W29 Parsley SGH4-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Parsley,HortasDoVale-West (HDVW) - bed 15 north section,"0,4",,2021-W31 Parsley HVW15-N,harvest from 2021-W31 Parsley HVW15-N,TRUE,2022-01-24,,,,plantings,weight,Kg
+Tomato roma,Winter Green House - bed 2,"2,1",,2021-W34 Tomato roma WGH2,harvest from 2021-W34 Tomato roma WGH2,TRUE,2022-01-24,,,,plantings,weight,Kg
+Tomatos varied,Winter Green House - bed 1,"4,1",,2021-W13 Tomatos varied WGH1,harvest from 2021-W13 Tomatos varied WGH1,TRUE,2022-01-24,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 13 north section,"1,4",,2021-W27 Swiss chard HVW13-N,harvest from 2021-W27 Swiss chard HVW13-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 15 south section,"1,4",,2021-W36 Swiss chard HVW15-S,harvest from 2021-W36 Swiss chard HVW15-S,TRUE,2022-01-31,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 4 north section,"0,8",,2020-0 Swiss chard Autumn HVW04-N,harvest from 2020-0 Swiss chard Autumn HVW04-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Celery,Summer Green House (SGH) - bed 3 north section,"10,6",,2021-W27 Celery SGH3-N,harvest from 2021-W27 Celery SGH3-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Lettuce,Winter Green House - bed 6,"2,8",,2021-W47 Lettuce WGH6,harvest from 2021-W47 Lettuce WGH6,TRUE,2022-01-31,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 26 north section,14,,2021-W36 Leek HVE26-N,harvest from 2021-W36 Leek HVE26-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Potato,HortasDoVale-East (HDVE) - bed 8,12,,2021-W41 Potato HVE08,harvest from 2021-W41 Potato HVE08,TRUE,2022-01-31,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-East (HDVE) - bed 11,"7,6",,2021-W42 Beetroot HVE11-N,harvest from 2021-W42 Beetroot HVE11-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-West (HDVW) - bed 16,"4,6",,2021-W39 Beetroot HVW16,harvest from 2021-W39 Beetroot HVW16,TRUE,2022-01-31,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"0,4",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"1,8",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,"4,2",,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-01-31,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 3,"11,6",,2021-W38 Carrot HVE03,harvest from 2021-W38 Carrot HVE03,TRUE,2022-01-31,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 2 north section,"1,8",,2021-W44 Coriander SGH2-N,harvest from 2021-W44 Coriander SGH2-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,25",,2021-W39 Curly kale HVW16-N,harvest from 2021-W39 Curly kale HVW16-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Galega kale,HortasDoVale-West (HDVW) - bed 16 north section,"2,75",,2021-W39 Galega kale HVW16-N,harvest from 2021-W39 Galega kale HVW16-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-East (HDVE) - bed 11 south section,"2,7",,2021-W42 Green cabbage HVE11-S,harvest from 2021-W42 Green cabbage HVE11-S,TRUE,2022-01-31,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 18 north section,"5,2",,2021-W43 Green cabbage HVW18-N,harvest from 2021-W43 Green cabbage HVW18-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 18 north section,"1,54",,2021-W43 Kolrabi HVW18-N,harvest from 2021-W43 Kolrabi HVW18-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 16 north section,1,,2021-W39 Dinossaur kale HVW16-N,harvest from 2021-W39 Dinossaur kale HVW16-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"1,75",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Chinese cabbage,Summer Green House (SGH) - bed 1 north section,2,,2021-W45 Chinese cabbage SGH1-N,harvest from 2021-W45 Chinese cabbage SGH1-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-East (HDVE) - bed 11,"1,3",,2021-W42 Coaulifower HVE11-S,harvest from 2021-W42 Coaulifower HVE11-S,TRUE,2022-01-31,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-East (HDVE) - bed 11 south section,"2,4",,2021-W42 Coaulifower HVE11-S,harvest from 2021-W42 Coaulifower HVE11-S,TRUE,2022-01-31,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"2,3",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-01-31,,,,plantings,weight,Kg
+Zuccini,HortasDoVale-West (HDVW) - bed 5,"0,53",,2021-W23 Zuccini HVW05-N,harvest from 2021-W23 Zuccini HVW05-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-East (HDVE) - bed 16 south section,"1,26",,2021-W47 Spinaches HVE16-S,harvest from 2021-W47 Spinaches HVE16-S,TRUE,2022-01-31,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 16 north section,"0,6",,2021-W46 Mizuna purple HVE16-N,harvest from 2021-W46 Mizuna purple HVE16-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 16 north section,"2,6",,2021-W46 Mizuna green HVE16-N,harvest from 2021-W46 Mizuna green HVE16-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"2,4",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-01-31,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"2,45",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-01-31,,,,plantings,weight,Kg
+Turnip,HortasDoVale-East (HDVE) - bed 13 north section,"5,5",,2021-W43 Turnip HVE13-N,harvest from 2021-W43 Turnip HVE13-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Pack choi,HortasDoVale-East (HDVE) - bed 23 south section,"6,8",,2022-W01 Pack choi HVE23-S,harvest from 2022-W01 Pack choi HVE23-S,TRUE,2022-01-31,,,,plantings,weight,Kg
+Pack choi,Winter Green House - bed 5,"4,2",,2021-W44 Pack choi WGH5,harvest from 2021-W44 Pack choi WGH5,TRUE,2022-01-31,,,,plantings,weight,Kg
+Radishes,HortasDoVale-East (HDVE) - bed 15 north section,"8,8",,2021-W48 Radishes HVE15-N,harvest from 2021-W48 Radishes HVE15-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-East (HDVE) - bed 12 north section,"11,2",,2021-W43 Horse radish HVE12-N,harvest from 2021-W43 Horse radish HVE12-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Rucula,HortasDoVale-East (HDVE) - bed 16 north section,2,,2021-W46 Rucula HVE16-N,harvest from 2021-W46 Rucula HVE16-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 south section,"1,1",,2021-W37 Rucula HVW23-S,harvest from 2021-W37 Rucula HVW23-S,TRUE,2022-01-31,,,,plantings,weight,Kg
+Parsley,HortasDoVale-East (HDVE) - bed 24 north section,"0,07",,2022-W01 Parsley HVE24-N,harvest from 2022-W01 Parsley HVE24-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 4 north section,"0,07",,2021-W29 Parsley SGH4-N,harvest from 2021-W29 Parsley SGH4-N,TRUE,2022-01-31,,,,plantings,weight,Kg
+Tomato roma,Winter Green House - bed 2,"4,25",,2021-W34 Tomato roma WGH2,harvest from 2021-W34 Tomato roma WGH2,TRUE,2022-01-31,,,,plantings,weight,Kg
+Tomatos varied,Winter Green House - bed 1,8,,2021-W13 Tomatos varied WGH1,harvest from 2021-W13 Tomatos varied WGH1,TRUE,2022-01-31,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 1 south section,"0,8",,2021-W19 Swiss chard SGH1-S,harvest from 2021-W19 Swiss chard SGH1-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 2 south section,"0,8",,2021-W19 Swiss chard SGH2-S,harvest from 2021-W19 Swiss chard SGH2-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 13 north section,"3,6",,2021-W27 Swiss chard HVW13-N,harvest from 2021-W27 Swiss chard HVW13-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 15 south section,"3,2",,2021-W36 Swiss chard HVW15-S,harvest from 2021-W36 Swiss chard HVW15-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 4 north section,"0,5",,2020-0 Swiss chard Autumn HVW04-N,harvest from 2020-0 Swiss chard Autumn HVW04-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Land cress,HortasDoVale-East (HDVE) - bed 24 north section,"0,4",,2022-W01 Land cress HVE24-N,harvest from 2022-W01 Land cress HVE24-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 8,"11,5",,2021-W22 Celery HVW08-N,harvest from 2021-W22 Celery HVW08-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Lettuce,Summer Green House (SGH) - bed 4 south section,"13,1",,2021-W34 Lettuce SGH4-S,harvest from 2021-W34 Lettuce SGH4-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Lettuce,Winter Green House - bed 6,"0,4",,2021-W47 Lettuce WGH6,harvest from 2021-W47 Lettuce WGH6,TRUE,2022-02-07,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 26 north section,"11,4",,2021-W36 Leek HVE26-N,harvest from 2021-W36 Leek HVE26-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Dill,HortasDoVale-East (HDVE) - bed 24 north section,"0,5",,2022-W01 Dill HVE24-N,harvest from 2022-W01 Dill HVE24-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Potato,HortasDoVale-East (HDVE) - bed 8,"21,5",,2021-W41 Potato HVE08,harvest from 2021-W41 Potato HVE08,TRUE,2022-02-07,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-East (HDVE) - bed 11,"4,93",,2021-W42 Beetroot HVE11-N,harvest from 2021-W42 Beetroot HVE11-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-West (HDVW) - bed 16,"1,8",,2021-W39 Beetroot HVW16,harvest from 2021-W39 Beetroot HVW16,TRUE,2022-02-07,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"0,9",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"1,7",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,"5,1",,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-02-07,,,,plantings,weight,Kg
+Lambs lettuce,HortasDoVale-East (HDVE) - bed 16 north section,"2,5",,2021-W47 Lambs lettuce HVE16-N,harvest from 2021-W47 Lambs lettuce HVE16-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,"8,1",,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-02-07,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 3,"11,4",,2021-W38 Carrot HVE03,harvest from 2021-W38 Carrot HVE03,TRUE,2022-02-07,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 2 north section,"1,8",,2021-W44 Coriander SGH2-N,harvest from 2021-W44 Coriander SGH2-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Galega kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,8",,2021-W39 Galega kale HVW16-N,harvest from 2021-W39 Galega kale HVW16-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-East (HDVE) - bed 11 south section,"1,7",,2021-W42 Green cabbage HVE11-S,harvest from 2021-W42 Green cabbage HVE11-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 18 north section,"4,9",,2021-W43 Green cabbage HVW18-N,harvest from 2021-W43 Green cabbage HVW18-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 18 north section,"3,2",,2021-W43 Kolrabi HVW18-N,harvest from 2021-W43 Kolrabi HVW18-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"0,8",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Chinese cabbage,Summer Green House (SGH) - bed 1 north section,"4,1",,2021-W45 Chinese cabbage SGH1-N,harvest from 2021-W45 Chinese cabbage SGH1-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Brussel sprouts,HortasDoVale-West (HDVW) - bed 11 south section,2,,2021-W34 Brussel sprouts HVW11-S,harvest from 2021-W34 Brussel sprouts HVW11-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-West (HDVW) - bed 4 south section,15,,2021-W36 Coaulifower HVW04-S,harvest from 2021-W36 Coaulifower HVW04-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"0,9",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-02-07,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 3,"2,2",,2021-W41 Zuccini WGH3,harvest from 2021-W41 Zuccini WGH3,TRUE,2022-02-07,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"0,6",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-02-07,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-East (HDVE) - bed 12 north section,"0,18",,2021-W43 Spinaches HVE12-N,harvest from 2021-W43 Spinaches HVE12-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 north section,"0,25",,2021-W43 Sprouting turnip HVE12-N,harvest from 2021-W43 Sprouting turnip HVE12-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 south section,"2,95",,2021-W48 Sprouting turnip HVE12-S,harvest from 2021-W48 Sprouting turnip HVE12-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 south section,"1,4",,2021-W38 Sprouting turnip HVE25-S,harvest from 2021-W38 Sprouting turnip HVE25-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 16 north section,"0,6",,2021-W46 Mizuna purple HVE16-N,harvest from 2021-W46 Mizuna purple HVE16-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"2,25",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-02-07,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"2,1",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-02-07,,,,plantings,weight,Kg
+Turnip,HortasDoVale-East (HDVE) - bed 13 north section,"9,6",,2021-W43 Turnip HVE13-N,harvest from 2021-W43 Turnip HVE13-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Pack choi,HortasDoVale-East (HDVE) - bed 23 south section,10,,2022-W01 Pack choi HVE23-S,harvest from 2022-W01 Pack choi HVE23-S,TRUE,2022-02-07,,,,plantings,weight,Kg
+Pack choi,Winter Green House - bed 5,"5,6",,2021-W44 Pack choi WGH5,harvest from 2021-W44 Pack choi WGH5,TRUE,2022-02-07,,,,plantings,weight,Kg
+Radishes,HortasDoVale-East (HDVE) - bed 15 north section,"4,3",,2021-W48 Radishes HVE15-N,harvest from 2021-W48 Radishes HVE15-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Radishes,Summer Green House (SGH) - bed 4 north section,"0,3",,2022-W01 Radishes SGH4-N,harvest from 2022-W01 Radishes SGH4-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Parsley,HortasDoVale-East (HDVE) - bed 24 north section,"1,1",,2022-W01 Parsley HVE24-N,harvest from 2022-W01 Parsley HVE24-N,TRUE,2022-02-07,,,,plantings,weight,Kg
+Tomato roma,Winter Green House - bed 2,"1,6",,2021-W34 Tomato roma WGH2,harvest from 2021-W34 Tomato roma WGH2,TRUE,2022-02-07,,,,plantings,weight,Kg
+Tomatos small,Winter Green House - bed 1,"0,4",,2021-W13 Tomatos small WGH1,harvest from 2021-W13 Tomatos small WGH1,TRUE,2022-02-07,,,,plantings,weight,Kg
+Tomatos varied,Winter Green House - bed 1,6,,2021-W13 Tomatos varied WGH1,harvest from 2021-W13 Tomatos varied WGH1,TRUE,2022-02-07,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 8,9,,2021-W22 Celery HVW08-N,harvest from 2021-W22 Celery HVW08-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 23 north section,3,,2022-W01 Lettuce HVE23-N,harvest from 2022-W01 Lettuce HVE23-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Lettuce,Summer Green House (SGH) - bed 4 south section,"12,2",,2021-W34 Lettuce SGH4-S,harvest from 2021-W34 Lettuce SGH4-S,TRUE,2022-02-14,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 26 north section,"9,4",,2021-W36 Leek HVE26-N,harvest from 2021-W36 Leek HVE26-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Dill,HortasDoVale-East (HDVE) - bed 24 north section,"0,5",,2022-W01 Dill HVE24-N,harvest from 2022-W01 Dill HVE24-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Potato,HortasDoVale-East (HDVE) - bed 8,"6,1",,2021-W41 Potato HVE08,harvest from 2021-W41 Potato HVE08,TRUE,2022-02-14,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-East (HDVE) - bed 11,"3,93",,2021-W42 Beetroot HVE11-N,harvest from 2021-W42 Beetroot HVE11-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-West (HDVW) - bed 16,"1,36",,2021-W39 Beetroot HVW16,harvest from 2021-W39 Beetroot HVW16,TRUE,2022-02-14,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"1,3",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,4,,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,"4,1",,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-02-14,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,"4,4",,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-02-14,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 3,"8,78",,2021-W38 Carrot HVE03,harvest from 2021-W38 Carrot HVE03,TRUE,2022-02-14,,,,plantings,weight,Kg
+Coriander,Winter Green House - bed 3,"1,52",,2021-W46 Coriander WGH3,harvest from 2021-W46 Coriander WGH3,TRUE,2022-02-14,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,28",,2021-W39 Curly kale HVW16-N,harvest from 2021-W39 Curly kale HVW16-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Galega kale,HortasDoVale-West (HDVW) - bed 16 north section,"1,2",,2021-W39 Galega kale HVW16-N,harvest from 2021-W39 Galega kale HVW16-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 18 north section,"2,66",,2021-W43 Green cabbage HVW18-N,harvest from 2021-W43 Green cabbage HVW18-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 18 north section,"1,76",,2021-W43 Kolrabi HVW18-N,harvest from 2021-W43 Kolrabi HVW18-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 4 south section,"1,24",,2021-W37 Kolrabi HVW04-S,harvest from 2021-W37 Kolrabi HVW04-S,TRUE,2022-02-14,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"2,9",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Chinese cabbage,Summer Green House (SGH) - bed 1 north section,"1,3",,2021-W45 Chinese cabbage SGH1-N,harvest from 2021-W45 Chinese cabbage SGH1-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Brussel sprouts,HortasDoVale-West (HDVW) - bed 11 south section,"1,8",,2021-W34 Brussel sprouts HVW11-S,harvest from 2021-W34 Brussel sprouts HVW11-S,TRUE,2022-02-14,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-East (HDVE) - bed 11,"1,3",,2021-W42 Coaulifower HVE11-S,harvest from 2021-W42 Coaulifower HVE11-S,TRUE,2022-02-14,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-East (HDVE) - bed 11 south section,"6,5",,2021-W42 Coaulifower HVE11-S,harvest from 2021-W42 Coaulifower HVE11-S,TRUE,2022-02-14,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"1,2",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-02-14,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 3,"2,1",,2021-W41 Zuccini WGH3,harvest from 2021-W41 Zuccini WGH3,TRUE,2022-02-14,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"0,21",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-02-14,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 south section,"1,2",,2021-W48 Sprouting turnip HVE12-S,harvest from 2021-W48 Sprouting turnip HVE12-S,TRUE,2022-02-14,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 south section,"0,5",,2021-W38 Sprouting turnip HVE25-S,harvest from 2021-W38 Sprouting turnip HVE25-S,TRUE,2022-02-14,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 16 north section,"0,6",,2021-W46 Mizuna purple HVE16-N,harvest from 2021-W46 Mizuna purple HVE16-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 16 north section,"0,6",,2021-W46 Mizuna green HVE16-N,harvest from 2021-W46 Mizuna green HVE16-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Mizuna green,Summer Green House (SGH) - bed 2 north section,"0,6",,2021-W44 Mizuna green SGH2-N,harvest from 2021-W44 Mizuna green SGH2-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"1,5",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-02-14,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"1,1",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-02-14,,,,plantings,weight,Kg
+Turnip,HortasDoVale-East (HDVE) - bed 13 north section,"9,4",,2021-W43 Turnip HVE13-N,harvest from 2021-W43 Turnip HVE13-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Pack choi,HortasDoVale-East (HDVE) - bed 23 south section,"12,7",,2022-W01 Pack choi HVE23-S,harvest from 2022-W01 Pack choi HVE23-S,TRUE,2022-02-14,,,,plantings,weight,Kg
+Pack choi,Winter Green House - bed 5,"4,1",,2021-W44 Pack choi WGH5,harvest from 2021-W44 Pack choi WGH5,TRUE,2022-02-14,,,,plantings,weight,Kg
+Radishes,Summer Green House (SGH) - bed 4 north section,"2,6",,2022-W01 Radishes SGH4-N,harvest from 2022-W01 Radishes SGH4-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Radishes,Summer Green House (SGH) - bed 4 north section,"1,5",,2022-W01 Radishes SGH4-N,harvest from 2022-W01 Radishes SGH4-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-East (HDVE) - bed 12 north section,"3,2",,2021-W43 Horse radish HVE12-N,harvest from 2021-W43 Horse radish HVE12-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-East (HDVE) - bed 15 north section,"1,2",,2021-W48 Horse radish HVE15-N,harvest from 2021-W48 Horse radish HVE15-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Rucula,HortasDoVale-East (HDVE) - bed 16 north section,"0,7",,2021-W46 Rucula HVE16-N,harvest from 2021-W46 Rucula HVE16-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Parsley,HortasDoVale-East (HDVE) - bed 24 north section,"0,45",,2022-W01 Parsley HVE24-N,harvest from 2022-W01 Parsley HVE24-N,TRUE,2022-02-14,,,,plantings,weight,Kg
+Tomato roma,Winter Green House - bed 2,"2,5",,2021-W34 Tomato roma WGH2,harvest from 2021-W34 Tomato roma WGH2,TRUE,2022-02-14,,,,plantings,weight,Kg
+Tomatos varied,Winter Green House - bed 1,"1,45",,2021-W13 Tomatos varied WGH1,harvest from 2021-W13 Tomatos varied WGH1,TRUE,2022-02-14,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 1 south section,"0,35",,2021-W19 Swiss chard SGH1-S,harvest from 2021-W19 Swiss chard SGH1-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 2 south section,"0,35",,2021-W19 Swiss chard SGH2-S,harvest from 2021-W19 Swiss chard SGH2-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 13 north section,"5,5",,2021-W27 Swiss chard HVW13-N,harvest from 2021-W27 Swiss chard HVW13-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 15 south section,"3,8",,2021-W36 Swiss chard HVW15-S,harvest from 2021-W36 Swiss chard HVW15-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 4 north section,3,,2020-0 Swiss chard Autumn HVW04-N,harvest from 2020-0 Swiss chard Autumn HVW04-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Celery,Summer Green House (SGH) - bed 3 north section,6,,2021-W27 Celery SGH3-N,harvest from 2021-W27 Celery SGH3-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 8,"4,1",,2021-W22 Celery HVW08-N,harvest from 2021-W22 Celery HVW08-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Lettuce,Summer Green House (SGH) - bed 3 north section,"12,1",,2022-W02 Lettuce SGH3-N,harvest from 2022-W02 Lettuce SGH3-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 26 north section,"11,5",,2021-W36 Leek HVE26-N,harvest from 2021-W36 Leek HVE26-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Dill,HortasDoVale-East (HDVE) - bed 24 north section,1,,2022-W01 Dill HVE24-N,harvest from 2022-W01 Dill HVE24-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Potato,HortasDoVale-East (HDVE) - bed 8,"20,3",,2021-W41 Potato HVE08,harvest from 2021-W41 Potato HVE08,TRUE,2022-02-21,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-West (HDVW) - bed 16,"0,8",,2021-W39 Beetroot HVW16,harvest from 2021-W39 Beetroot HVW16,TRUE,2022-02-21,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"1,38",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"2,8",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,"4,7",,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-02-21,,,,plantings,weight,Kg
+Lambs lettuce,HortasDoVale-East (HDVE) - bed 16 north section,"2,2",,2021-W47 Lambs lettuce HVE16-N,harvest from 2021-W47 Lambs lettuce HVE16-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,"7,56",,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-02-21,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 3,"8,78",,2021-W38 Carrot HVE03,harvest from 2021-W38 Carrot HVE03,TRUE,2022-02-21,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 2 north section,"1,35",,2021-W44 Coriander SGH2-N,harvest from 2021-W44 Coriander SGH2-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,5",,2021-W39 Curly kale HVW16-N,harvest from 2021-W39 Curly kale HVW16-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Galega kale,HortasDoVale-West (HDVW) - bed 16 north section,"1,24",,2021-W39 Galega kale HVW16-N,harvest from 2021-W39 Galega kale HVW16-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 18 north section,"9,7",,2021-W43 Green cabbage HVW18-N,harvest from 2021-W43 Green cabbage HVW18-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 4 south section,515,,2021-W36 Green cabbage HVW04-S,harvest from 2021-W36 Green cabbage HVW04-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 18 north section,"2,38",,2021-W43 Kolrabi HVW18-N,harvest from 2021-W43 Kolrabi HVW18-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 4 south section,"0,18",,2021-W37 Kolrabi HVW04-S,harvest from 2021-W37 Kolrabi HVW04-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,7",,2021-W39 Dinossaur kale HVW16-N,harvest from 2021-W39 Dinossaur kale HVW16-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"2,85",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Chinese cabbage,HortasDoVale-East (HDVE) - bed 24 south section,"10,2",,2022-W01 Chinese cabbage HVE24-S,harvest from 2022-W01 Chinese cabbage HVE24-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Chinese cabbage,Summer Green House (SGH) - bed 1 north section,"2,45",,2021-W45 Chinese cabbage SGH1-N,harvest from 2021-W45 Chinese cabbage SGH1-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Brussel sprouts,HortasDoVale-West (HDVW) - bed 11 south section,"0,64",,2021-W34 Brussel sprouts HVW11-S,harvest from 2021-W34 Brussel sprouts HVW11-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-East (HDVE) - bed 11,"1,23",,2021-W42 Coaulifower HVE11-S,harvest from 2021-W42 Coaulifower HVE11-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Coaulifower,HortasDoVale-West (HDVW) - bed 18 north section,"6,9",,2021-W43 Coaulifower HVW18-N,harvest from 2021-W43 Coaulifower HVW18-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 3,"2,5",,2021-W41 Zuccini WGH3,harvest from 2021-W41 Zuccini WGH3,TRUE,2022-02-21,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,2,,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-02-21,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 3,"1,3",,2021-W41 Zuccini WGH3,harvest from 2021-W41 Zuccini WGH3,TRUE,2022-02-21,,,,plantings,weight,Kg
+Zuccini,Winter Green House - bed 4,"0,3",,2021-W41 Zuccini WGH4,harvest from 2021-W41 Zuccini WGH4,TRUE,2022-02-21,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 south section,"0,55",,2021-W48 Sprouting turnip HVE12-S,harvest from 2021-W48 Sprouting turnip HVE12-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 south section,"4,1",,2021-W38 Sprouting turnip HVE25-S,harvest from 2021-W38 Sprouting turnip HVE25-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 16 north section,"0,7",,2021-W46 Mizuna purple HVE16-N,harvest from 2021-W46 Mizuna purple HVE16-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 16 north section,"0,4",,2021-W46 Mizuna green HVE16-N,harvest from 2021-W46 Mizuna green HVE16-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"3,2",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-02-21,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"2,9",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-02-21,,,,plantings,weight,Kg
+Turnip greens,HortasDoVale-East (HDVE) - bed 12 south section,"1,5",,2021-W48 Turnip greens HVE12-S,harvest from 2021-W48 Turnip greens HVE12-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Turnip,HortasDoVale-East (HDVE) - bed 13 north section,"8,6",,2021-W43 Turnip HVE13-N,harvest from 2021-W43 Turnip HVE13-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Pack choi,HortasDoVale-East (HDVE) - bed 23 south section,10,,2022-W01 Pack choi HVE23-S,harvest from 2022-W01 Pack choi HVE23-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Radishes,Summer Green House (SGH) - bed 4 north section,10,,2022-W01 Radishes SGH4-N,harvest from 2022-W01 Radishes SGH4-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-East (HDVE) - bed 15 north section,"4,2",,2021-W48 Horse radish HVE15-N,harvest from 2021-W48 Horse radish HVE15-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 north section,"0,1",,2021-W34 Rucula HVW23-N,harvest from 2021-W34 Rucula HVW23-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 south section,"0,7",,2021-W37 Rucula HVW23-S,harvest from 2021-W37 Rucula HVW23-S,TRUE,2022-02-21,,,,plantings,weight,Kg
+Parsley,HortasDoVale-East (HDVE) - bed 24 north section,"1,1",,2022-W01 Parsley HVE24-N,harvest from 2022-W01 Parsley HVE24-N,TRUE,2022-02-21,,,,plantings,weight,Kg
+Tomato roma,Winter Green House - bed 2,"2,73",,2021-W34 Tomato roma WGH2,harvest from 2021-W34 Tomato roma WGH2,TRUE,2022-02-21,,,,plantings,weight,Kg
+Tomatos small,Winter Green House - bed 1,"0,29",,2021-W13 Tomatos small WGH1,harvest from 2021-W13 Tomatos small WGH1,TRUE,2022-02-21,,,,plantings,weight,Kg
+Tomatos varied,Winter Green House - bed 1,3,,2021-W13 Tomatos varied WGH1,harvest from 2021-W13 Tomatos varied WGH1,TRUE,2022-02-21,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 1 south section,"2,5",,2021-W19 Swiss chard SGH1-S,harvest from 2021-W19 Swiss chard SGH1-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 2 south section,2,,2021-W19 Swiss chard SGH2-S,harvest from 2021-W19 Swiss chard SGH2-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Land cress,HortasDoVale-East (HDVE) - bed 24 north section,"0,8",,2022-W01 Land cress HVE24-N,harvest from 2022-W01 Land cress HVE24-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 15 north section,"8,4",,2021-W31 Celery HVW15-N,harvest from 2021-W31 Celery HVW15-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 23 north section,"8,9",,2022-W01 Lettuce HVE23-N,harvest from 2022-W01 Lettuce HVE23-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 23 south section,"8,3",,2022-W01 Lettuce HVE23-S,harvest from 2022-W01 Lettuce HVE23-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 24 south section,"3,8",,2022-W01 Lettuce HVE24-S,harvest from 2022-W01 Lettuce HVE24-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 26 north section,"5,5",,2021-W36 Leek HVE26-N,harvest from 2021-W36 Leek HVE26-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 9 south section,"4,4",,2021-W39 Leek HVE09-S,harvest from 2021-W39 Leek HVE09-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Dill,HortasDoVale-East (HDVE) - bed 24 north section,1,,2022-W01 Dill HVE24-N,harvest from 2022-W01 Dill HVE24-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Potato,HortasDoVale-East (HDVE) - bed 8,14,,2021-W41 Potato HVE08,harvest from 2021-W41 Potato HVE08,TRUE,2022-02-28,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"1,7",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"3,4",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,3,,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-02-28,,,,plantings,weight,Kg
+Lambs lettuce,HortasDoVale-East (HDVE) - bed 16 north section,"1,4",,2021-W47 Lambs lettuce HVE16-N,harvest from 2021-W47 Lambs lettuce HVE16-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,"8,98",,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-02-28,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 3,"9,3",,2021-W38 Carrot HVE03,harvest from 2021-W38 Carrot HVE03,TRUE,2022-02-28,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 3 south section,975,,2021-W46 Coriander SGH3-S,harvest from 2021-W46 Coriander SGH3-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,4",,2021-W39 Curly kale HVW16-N,harvest from 2021-W39 Curly kale HVW16-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Galega kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,9",,2021-W39 Galega kale HVW16-N,harvest from 2021-W39 Galega kale HVW16-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-East (HDVE) - bed 11 south section,1,,2021-W42 Green cabbage HVE11-S,harvest from 2021-W42 Green cabbage HVE11-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 18 north section,"8,41",,2021-W43 Green cabbage HVW18-N,harvest from 2021-W43 Green cabbage HVW18-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 18 north section,"3,4",,2021-W43 Kolrabi HVW18-N,harvest from 2021-W43 Kolrabi HVW18-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 4 south section,"0,29",,2021-W37 Kolrabi HVW04-S,harvest from 2021-W37 Kolrabi HVW04-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 16 north section,3,,2021-W39 Dinossaur kale HVW16-N,harvest from 2021-W39 Dinossaur kale HVW16-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Chinese cabbage,Summer Green House (SGH) - bed 1 north section,"13,3",,2021-W45 Chinese cabbage SGH1-N,harvest from 2021-W45 Chinese cabbage SGH1-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-East (HDVE) - bed 13 south section,"1,98",,2022-W04 Spinaches HVE13-S,harvest from 2022-W04 Spinaches HVE13-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 south section,"1,05",,2021-W48 Sprouting turnip HVE12-S,harvest from 2021-W48 Sprouting turnip HVE12-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 south section,"0,8",,2021-W38 Sprouting turnip HVE25-S,harvest from 2021-W38 Sprouting turnip HVE25-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 16 north section,"0,6",,2021-W46 Mizuna purple HVE16-N,harvest from 2021-W46 Mizuna purple HVE16-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-West (HDVW) - bed 23 north section,"0,1",,2021-W34 Mizuna purple HVW23-N,harvest from 2021-W34 Mizuna purple HVW23-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 16 north section,"0,7",,2021-W46 Mizuna green HVE16-N,harvest from 2021-W46 Mizuna green HVE16-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"3,9",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-02-28,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"3,4",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-02-28,,,,plantings,weight,Kg
+Turnip greens,HortasDoVale-East (HDVE) - bed 12 south section,"1,5",,2021-W48 Turnip greens HVE12-S,harvest from 2021-W48 Turnip greens HVE12-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Turnip,HortasDoVale-East (HDVE) - bed 13 north section,"6,45",,2021-W43 Turnip HVE13-N,harvest from 2021-W43 Turnip HVE13-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Radishes,Summer Green House (SGH) - bed 4 north section,"4,1",,2022-W01 Radishes SGH4-N,harvest from 2022-W01 Radishes SGH4-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-East (HDVE) - bed 15 north section,"7,6",,2021-W48 Horse radish HVE15-N,harvest from 2021-W48 Horse radish HVE15-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 north section,"0,1",,2021-W34 Rucula HVW23-N,harvest from 2021-W34 Rucula HVW23-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 south section,"0,5",,2021-W37 Rucula HVW23-S,harvest from 2021-W37 Rucula HVW23-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Parsley,HortasDoVale-East (HDVE) - bed 24 north section,"0,7",,2022-W01 Parsley HVE24-N,harvest from 2022-W01 Parsley HVE24-N,TRUE,2022-02-28,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 3 south section,"0,7",,2021-W45 Parsley SGH3-S,harvest from 2021-W45 Parsley SGH3-S,TRUE,2022-02-28,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 1 south section,"6,4",,2021-W19 Swiss chard SGH1-S,harvest from 2021-W19 Swiss chard SGH1-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Swiss chard,Summer Green House (SGH) - bed 2 south section,"3,2",,2021-W19 Swiss chard SGH2-S,harvest from 2021-W19 Swiss chard SGH2-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 4 north section,"3,2",,2020-0 Swiss chard Autumn HVW04-N,harvest from 2020-0 Swiss chard Autumn HVW04-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Land cress,HortasDoVale-East (HDVE) - bed 24 north section,"0,25",,2022-W01 Land cress HVE24-N,harvest from 2022-W01 Land cress HVE24-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 15 north section,"6,9",,2021-W31 Celery HVW15-N,harvest from 2021-W31 Celery HVW15-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 8,"3,6",,2021-W22 Celery HVW08-N,harvest from 2021-W22 Celery HVW08-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 23 south section,"3,7",,2022-W01 Lettuce HVE23-S,harvest from 2022-W01 Lettuce HVE23-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 24 south section,"13,5",,2022-W01 Lettuce HVE24-S,harvest from 2022-W01 Lettuce HVE24-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Lettuce,Summer Green House (SGH) - bed 3 north section,"2,9",,2022-W02 Lettuce SGH3-N,harvest from 2022-W02 Lettuce SGH3-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 9 south section,"4,7",,2021-W39 Leek HVE09-S,harvest from 2021-W39 Leek HVE09-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 9 south section,"4,8",,2021-W39 Leek HVE09-S,harvest from 2021-W39 Leek HVE09-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Dill,HortasDoVale-East (HDVE) - bed 24 north section,"1,2",,2022-W01 Dill HVE24-N,harvest from 2022-W01 Dill HVE24-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-East (HDVE) - bed 11,"5,4",,2021-W42 Beetroot HVE11-N,harvest from 2021-W42 Beetroot HVE11-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-West (HDVW) - bed 16,"0,1",,2021-W39 Beetroot HVW16,harvest from 2021-W39 Beetroot HVW16,TRUE,2022-03-07,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-East (HDVE) - bed 11 north section,"2,59",,2021-W42 Broccoli HVE11-N,harvest from 2021-W42 Broccoli HVE11-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 16,"3,1",,2021-W39 Broccoli HVW16-N,harvest from 2021-W39 Broccoli HVW16-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Broccoli,HortasDoVale-West (HDVW) - bed 21,"1,3",,2021-W30 Broccoli HVW21,harvest from 2021-W30 Broccoli HVW21,TRUE,2022-03-07,,,,plantings,weight,Kg
+Lambs lettuce,HortasDoVale-East (HDVE) - bed 16 north section,"1,1",,2021-W47 Lambs lettuce HVE16-N,harvest from 2021-W47 Lambs lettuce HVE16-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 10,"9,4",,2021-W35 Spring onion HVE10,harvest from 2021-W35 Spring onion HVE10,TRUE,2022-03-07,,,,plantings,weight,Kg
+Carrot,HortasDoVale-East (HDVE) - bed 3,"5,3",,2021-W38 Carrot HVE03,harvest from 2021-W38 Carrot HVE03,TRUE,2022-03-07,,,,plantings,weight,Kg
+Coriander,Summer Green House (SGH) - bed 2 north section,"2,025",,2021-W44 Coriander SGH2-N,harvest from 2021-W44 Coriander SGH2-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,25",,2021-W39 Curly kale HVW16-N,harvest from 2021-W39 Curly kale HVW16-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Galega kale,HortasDoVale-West (HDVW) - bed 16 north section,"0,5",,2021-W39 Galega kale HVW16-N,harvest from 2021-W39 Galega kale HVW16-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-East (HDVE) - bed 11 south section,"0,8",,2021-W42 Green cabbage HVE11-S,harvest from 2021-W42 Green cabbage HVE11-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Green cabbage,HortasDoVale-West (HDVW) - bed 18 north section,3,,2021-W43 Green cabbage HVW18-N,harvest from 2021-W43 Green cabbage HVW18-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 18 north section,"1,7",,2021-W43 Kolrabi HVW18-N,harvest from 2021-W43 Kolrabi HVW18-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-West (HDVW) - bed 4 south section,1,,2021-W37 Kolrabi HVW04-S,harvest from 2021-W37 Kolrabi HVW04-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 16 north section,"3,9",,2021-W39 Dinossaur kale HVW16-N,harvest from 2021-W39 Dinossaur kale HVW16-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Dinossaur kale,HortasDoVale-West (HDVW) - bed 9 north section,"1,25",,2021-W32 Dinossaur kale HVW09-N,harvest from 2021-W32 Dinossaur kale HVW09-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Chinese cabbage,HortasDoVale-East (HDVE) - bed 24 south section,"13,92",,2022-W01 Chinese cabbage HVE24-S,harvest from 2022-W01 Chinese cabbage HVE24-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Brussel sprouts,HortasDoVale-West (HDVW) - bed 11 south section,"0,7",,2021-W34 Brussel sprouts HVW11-S,harvest from 2021-W34 Brussel sprouts HVW11-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-West (HDVW) - bed 15 south section,"5,09",,2021-W41 Spinaches HVW15-S,harvest from 2021-W41 Spinaches HVW15-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Broad beans,HortasDoVale-East (HDVE) - bed 14 north section,"4,9",,2021-W43 Broad beans HVE14-N,harvest from 2021-W43 Broad beans HVE14-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Fennel,HortasDoVale-West (HDVW) - bed 23 north section,"0,38",,2021-W36 Fennel bulb HVW23-N,harvest from 2021-W36 Fennel bulb HVW23-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Fennel,HortasDoVale-West (HDVW) - bed 23 north section,3,,2021-W36 Fennel bulb HVW23-N,harvest from 2021-W36 Fennel bulb HVW23-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 12 south section,"0,7",,2021-W48 Sprouting turnip HVE12-S,harvest from 2021-W48 Sprouting turnip HVE12-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Sprouting turnip,HortasDoVale-East (HDVE) - bed 25 south section,"0,78",,2021-W38 Sprouting turnip HVE25-S,harvest from 2021-W38 Sprouting turnip HVE25-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 16 north section,"0,3",,2021-W46 Mizuna purple HVE16-N,harvest from 2021-W46 Mizuna purple HVE16-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 16 north section,"0,6",,2021-W46 Mizuna green HVE16-N,harvest from 2021-W46 Mizuna green HVE16-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 21 south section,"0,4",,2022-W05 Mizuna green HVE21-S,harvest from 2022-W05 Mizuna green HVE21-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 24,"2,7",,2021-W04 Strawberry HVW24,harvest from 2021-W04 Strawberry HVW24,TRUE,2022-03-07,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-West (HDVW) - bed 25,"2,7",,2021-W04 Strawberry HVW25,harvest from 2021-W04 Strawberry HVW25,TRUE,2022-03-07,,,,plantings,weight,Kg
+Turnip greens,HortasDoVale-East (HDVE) - bed 12 south section,"0,3",,2021-W48 Turnip greens HVE12-S,harvest from 2021-W48 Turnip greens HVE12-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Turnip,HortasDoVale-East (HDVE) - bed 13 north section,"9,8",,2021-W43 Turnip HVE13-N,harvest from 2021-W43 Turnip HVE13-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Radishes,Summer Green House (SGH) - bed 4 north section,"0,6",,2022-W01 Radishes SGH4-N,harvest from 2022-W01 Radishes SGH4-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Horse radish,HortasDoVale-East (HDVE) - bed 15 north section,"11,9",,2021-W48 Horse radish HVE15-N,harvest from 2021-W48 Horse radish HVE15-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Rucula,HortasDoVale-West (HDVW) - bed 23 north section,"0,6",,2021-W34 Rucula HVW23-N,harvest from 2021-W34 Rucula HVW23-N,TRUE,2022-03-07,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 3 south section,"0,6",,2021-W45 Parsley SGH3-S,harvest from 2021-W45 Parsley SGH3-S,TRUE,2022-03-07,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 4 north section,1,,2021-W29 Parsley SGH4-N,harvest from 2021-W29 Parsley SGH4-N,TRUE,2022-03-07,,,,plantings,weight,Kg
