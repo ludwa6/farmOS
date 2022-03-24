@@ -1,0 +1,291 @@
+Import crop data from file: /content/farmOS/content/data/crop-plan-20220314-AssetsData.csvy
+importing
+Imported log for asset: 2020-W40 Swiss chard Autumn HVW04-N - https://vdl.farmos.dev/asset/589
+Row 3: Asset already exists: '2021-W04 Strawberry HVW24'
+Imported log for asset: 2021-W04 Strawberry HVW25 - https://vdl.farmos.dev/asset/590
+Imported log for asset: 2021-W08 Parsley SGH2-N - https://vdl.farmos.dev/asset/591
+Row 6: Asset already exists: '2021-W10 Chives SGH3-S'
+Imported log for asset: 2021-W10 Zucchini WGH5 - https://vdl.farmos.dev/asset/592
+Imported log for asset: 2021-W13 Leek HVE23 - https://vdl.farmos.dev/asset/593
+Imported log for asset: 2021-W13 Melon long HVE12-N - https://vdl.farmos.dev/asset/594
+Imported log for asset: 2021-W13 Tomatoes small WGH1 - https://vdl.farmos.dev/asset/595
+Imported log for asset: 2021-W13 Tomatoes varied WGH1 - https://vdl.farmos.dev/asset/596
+Imported log for asset: 2021-W13 Watermelon HVE12-S - https://vdl.farmos.dev/asset/597
+Imported log for asset: 2021-W14 N.Z. Spinaches WGH6 - https://vdl.farmos.dev/asset/598
+Imported log for asset: 2021-W14 Tomato roma WGH6 - https://vdl.farmos.dev/asset/599
+Imported log for asset: 2021-W14 Tomatoes small WGH6 - https://vdl.farmos.dev/asset/600
+Imported log for asset: 2021-W14 Tomatoes varied WGH6 - https://vdl.farmos.dev/asset/601
+Imported log for asset: 2021-W15 Aubergine HVW14 - https://vdl.farmos.dev/asset/602
+Imported log for asset: 2021-W15 Tomatoes small HVW03 - https://vdl.farmos.dev/asset/603
+Imported log for asset: 2021-W15 Tomatoes varied HVW03 - https://vdl.farmos.dev/asset/604
+Imported log for asset: 2021-W16 Basil HVW03 - https://vdl.farmos.dev/asset/605
+Imported log for asset: 2021-W16 Beetroot HVW03 - https://vdl.farmos.dev/asset/606
+Imported log for asset: 2021-W16 Dinosaur kale SGH1-N - https://vdl.farmos.dev/asset/607
+Imported log for asset: 2021-W16 Muscade Pumpkin HVE15 - https://vdl.farmos.dev/asset/608
+Imported log for asset: 2021-W16 Muscade Pumpkin HVE17 - https://vdl.farmos.dev/asset/609
+Imported log for asset: 2021-W19 Swiss chard SGH1-S - https://vdl.farmos.dev/asset/610
+Imported log for asset: 2021-W19 Swiss chard SGH2-S - https://vdl.farmos.dev/asset/611
+Imported log for asset: 2021-W19 Turnip HVW13-S - https://vdl.farmos.dev/asset/612
+Row 28: Asset already exists: '2021-W20 Carrot HVE01'
+Imported log for asset: 2021-W20 Cucumber HVE06-S - https://vdl.farmos.dev/asset/613
+Imported log for asset: 2021-W20 Zucchini HVE06-N - https://vdl.farmos.dev/asset/614
+Imported log for asset: 2021-W20 Zucchini HVE06-S - https://vdl.farmos.dev/asset/615
+Imported log for asset: 2021-W21 Aubergine HVW17 - https://vdl.farmos.dev/asset/616
+Imported log for asset: 2021-W21 Basil HVW08-N - https://vdl.farmos.dev/asset/617
+Imported log for asset: 2021-W21 Tomato roma HVW16-N - https://vdl.farmos.dev/asset/618
+Imported log for asset: 2021-W21 Tomatoes varied HVW08 - https://vdl.farmos.dev/asset/619
+Imported log for asset: 2021-W21 Turnip HVW16-S - https://vdl.farmos.dev/asset/620
+Imported log for asset: 2021-W22 Basil HVW08-S - https://vdl.farmos.dev/asset/621
+Row 38: Asset already exists: '2021-W22 Carrot HVE02'
+Imported log for asset: 2021-W22 Celery HVW08-N - https://vdl.farmos.dev/asset/622
+Imported log for asset: 2021-W22 Celery HVW08-S - https://vdl.farmos.dev/asset/623
+Imported log for asset: 2021-W22 Sweet corn HVE16 - https://vdl.farmos.dev/asset/624
+Imported log for asset: 2021-W23 Cucumber HVW05-S - https://vdl.farmos.dev/asset/625
+Imported log for asset: 2021-W23 Melon round HVE05-N - https://vdl.farmos.dev/asset/626
+Imported log for asset: 2021-W23 Melon round HVE07-N - https://vdl.farmos.dev/asset/627
+Imported log for asset: 2021-W23 Watermelon HVE05-S - https://vdl.farmos.dev/asset/628
+Imported log for asset: 2021-W23 Watermelon HVE07-S - https://vdl.farmos.dev/asset/629
+Imported log for asset: 2021-W23 Zucchini HVW05-N - https://vdl.farmos.dev/asset/630
+Imported log for asset: 2021-W23 Zucchini HVW05-S - https://vdl.farmos.dev/asset/631
+Imported log for asset: 2021-W24 Celery HVW05-S - https://vdl.farmos.dev/asset/632
+Row 50: Asset already exists: '2021-W24 Hot peppers HVW20-S'
+Imported log for asset: 2021-W24 Mizuna green WGH3 - https://vdl.farmos.dev/asset/633
+Imported log for asset: 2021-W24 Mizuna purple WGH3 - https://vdl.farmos.dev/asset/634
+Imported log for asset: 2021-W24 Padron peppers HVW20-S - https://vdl.farmos.dev/asset/635
+Imported log for asset: 2021-W24 Peppers HVW05-S - https://vdl.farmos.dev/asset/636
+Imported log for asset: 2021-W24 Peppers HVW20-N - https://vdl.farmos.dev/asset/637
+Imported log for asset: 2021-W24 Rucula WGH3 - https://vdl.farmos.dev/asset/638
+Row 57: Asset already exists: '2021-W24 Sweet potato HVE04-N'
+Imported log for asset: 2021-W25 Beetroot HVW08-N - https://vdl.farmos.dev/asset/639
+Imported log for asset: 2021-W25 Green beans climber HVE16 - https://vdl.farmos.dev/asset/640
+Imported log for asset: 2021-W25 Green beans dwarf normal HVE18-N - https://vdl.farmos.dev/asset/641
+Imported log for asset: 2021-W25 Green beans dwarf round pod HVE18-S - https://vdl.farmos.dev/asset/642
+Imported log for asset: 2021-W25 Parsley WGH3 - https://vdl.farmos.dev/asset/643
+Imported log for asset: 2021-W25 Sweet corn HVE18 - https://vdl.farmos.dev/asset/644
+Imported log for asset: 2021-W26 Sweet potato HVE04-S - https://vdl.farmos.dev/asset/645
+Imported log for asset: 2021-W27 Celery HVW01-S - https://vdl.farmos.dev/asset/646
+Imported log for asset: 2021-W27 Celery SGH3-N - https://vdl.farmos.dev/asset/647
+Imported log for asset: 2021-W27 Cucumber HVW01-S - https://vdl.farmos.dev/asset/648
+Imported log for asset: 2021-W27 Parsley SGH3-N - https://vdl.farmos.dev/asset/649
+Imported log for asset: 2021-W27 Rucula SGH3-N - https://vdl.farmos.dev/asset/650
+Imported log for asset: 2021-W27 Salanova SGH2-N - https://vdl.farmos.dev/asset/651
+Imported log for asset: 2021-W27 Spring onion HVW17 - https://vdl.farmos.dev/asset/652
+Imported log for asset: 2021-W27 Swiss chard HVW13-N - https://vdl.farmos.dev/asset/653
+Imported log for asset: 2021-W29 Cucumber HVW07-N - https://vdl.farmos.dev/asset/654
+Imported log for asset: 2021-W29 Melon long HVE13-N - https://vdl.farmos.dev/asset/655
+Imported log for asset: 2021-W29 Melon long HVW07-S - https://vdl.farmos.dev/asset/656
+Imported log for asset: 2021-W29 Parsley SGH4-N - https://vdl.farmos.dev/asset/657
+Imported log for asset: 2021-W29 Zucchini HVW07-N - https://vdl.farmos.dev/asset/658
+Imported log for asset: 2021-W30 Broccoli HVW21 - https://vdl.farmos.dev/asset/659
+Imported log for asset: 2021-W30 Lettuce HVW21 - https://vdl.farmos.dev/asset/660
+Imported log for asset: 2021-W31 Celery HVW15-N - https://vdl.farmos.dev/asset/661
+Imported log for asset: 2021-W31 Parsley HVW15-N - https://vdl.farmos.dev/asset/662
+Imported log for asset: 2021-W31 Tomatoes small HVW01-N - https://vdl.farmos.dev/asset/663
+Imported log for asset: 2021-W31 Tomatoes small HVW01-S - https://vdl.farmos.dev/asset/664
+Imported log for asset: 2021-W31 Tomatoes varied HVW01-N - https://vdl.farmos.dev/asset/665
+Imported log for asset: 2021-W31 Tomatoes varied HVW01-S - https://vdl.farmos.dev/asset/666
+Imported log for asset: 2021-W32 Basil HVW01-N - https://vdl.farmos.dev/asset/667
+Imported log for asset: 2021-W32 Basil HVW01-S - https://vdl.farmos.dev/asset/668
+Imported log for asset: 2021-W32 Beetroot HVW01-N - https://vdl.farmos.dev/asset/669
+Imported log for asset: 2021-W32 Beetroot HVW01-S - https://vdl.farmos.dev/asset/670
+Imported log for asset: 2021-W32 Dinosaur kale HVW09-N - https://vdl.farmos.dev/asset/671
+Imported log for asset: 2021-W32 Green cabbage HVW19 - https://vdl.farmos.dev/asset/672
+Imported log for asset: 2021-W32 Kolrabi HVW19 - https://vdl.farmos.dev/asset/673
+Imported log for asset: 2021-W32 Leek HVE13-S - https://vdl.farmos.dev/asset/674
+Imported log for asset: 2021-W33 Butternut Squash HVE27-S - https://vdl.farmos.dev/asset/675
+Imported log for asset: 2021-W33 Butternut Squash HVW09-S - https://vdl.farmos.dev/asset/676
+Imported log for asset: 2021-W33 Coriander HVW23-N - https://vdl.farmos.dev/asset/677
+Imported log for asset: 2021-W33 Hokkaido Squash HVE27-N - https://vdl.farmos.dev/asset/678
+Imported log for asset: 2021-W33 Hokkaido Squash HVE27-S - https://vdl.farmos.dev/asset/679
+Imported log for asset: 2021-W33 Tomatoes varied HVW03-N - https://vdl.farmos.dev/asset/680
+Imported log for asset: 2021-W34 Beetroot HVW13-N - https://vdl.farmos.dev/asset/681
+Imported log for asset: 2021-W34 Brussels sprouts HVW11-S - https://vdl.farmos.dev/asset/682
+Imported log for asset: 2021-W34 Cucumber HVW11-N - https://vdl.farmos.dev/asset/683
+Imported log for asset: 2021-W34 Green pea pods HVW10-N - https://vdl.farmos.dev/asset/684
+Imported log for asset: 2021-W34 Green peas HVW10-N - https://vdl.farmos.dev/asset/685
+Imported log for asset: 2021-W34 Horseradish HVW10-S - https://vdl.farmos.dev/asset/686
+Imported log for asset: 2021-W34 Leef cabbage HVW11-S - https://vdl.farmos.dev/asset/687
+Imported log for asset: 2021-W34 Lettuce HVW13-N - https://vdl.farmos.dev/asset/688
+Imported log for asset: 2021-W34 Lettuce SGH4-S - https://vdl.farmos.dev/asset/689
+Imported log for asset: 2021-W34 Mizuna green HVW23-N - https://vdl.farmos.dev/asset/690
+Imported log for asset: 2021-W34 Mizuna purple HVW23-N - https://vdl.farmos.dev/asset/691
+Imported log for asset: 2021-W34 Pack choi WGH4 - https://vdl.farmos.dev/asset/692
+Imported log for asset: 2021-W34 Radishes SGH3-S - https://vdl.farmos.dev/asset/693
+Imported log for asset: 2021-W34 Rucula HVW23-N - https://vdl.farmos.dev/asset/694
+Imported log for asset: 2021-W34 Rucula WGH4 - https://vdl.farmos.dev/asset/695
+Imported log for asset: 2021-W34 Sprouting turnip HVE25-N - https://vdl.farmos.dev/asset/696
+Imported log for asset: 2021-W34 Tomato roma WGH2 - https://vdl.farmos.dev/asset/697
+Imported log for asset: 2021-W34 Tomatoes varied WGH1 - https://vdl.farmos.dev/asset/698
+Imported log for asset: 2021-W34 Turnip greens HVE25-N - https://vdl.farmos.dev/asset/699
+Imported log for asset: 2021-W34 Zucchini HVW11-N - https://vdl.farmos.dev/asset/700
+Imported log for asset: 2021-W35 Beetroot HVW09-N - https://vdl.farmos.dev/asset/701
+Imported log for asset: 2021-W35 Coriander SGH4-N - https://vdl.farmos.dev/asset/702
+Imported log for asset: 2021-W35 Peppers WGH2 - https://vdl.farmos.dev/asset/703
+Imported log for asset: 2021-W35 Rucula SGH4-N - https://vdl.farmos.dev/asset/704
+Imported log for asset: 2021-W35 Spring onion HVE10 - https://vdl.farmos.dev/asset/705
+Imported log for asset: 2021-W36 Coaulifower HVW04-S - https://vdl.farmos.dev/asset/706
+Imported log for asset: 2021-W36 Dill HVW15-S - https://vdl.farmos.dev/asset/707
+Imported log for asset: 2021-W36 Fennel bulb HVW23-N - https://vdl.farmos.dev/asset/708
+Imported log for asset: 2021-W36 Green beans dwarf normal HVE26-S - https://vdl.farmos.dev/asset/709
+Imported log for asset: 2021-W36 Green cabbage HVW04-N - https://vdl.farmos.dev/asset/710
+Imported log for asset: 2021-W36 Green cabbage HVW04-S - https://vdl.farmos.dev/asset/711
+Imported log for asset: 2021-W36 Leek HVE26-N - https://vdl.farmos.dev/asset/712
+Imported log for asset: 2021-W36 Lettuce WGH4 - https://vdl.farmos.dev/asset/713
+Imported log for asset: 2021-W36 Pack choi WGH4 - https://vdl.farmos.dev/asset/714
+Imported log for asset: 2021-W36 Swiss chard HVW15-S - https://vdl.farmos.dev/asset/715
+Imported log for asset: 2021-W36 Turnip HVW10-S - https://vdl.farmos.dev/asset/716
+Imported log for asset: 2021-W37 Kolrabi HVW04-N - https://vdl.farmos.dev/asset/717
+Imported log for asset: 2021-W37 Kolrabi HVW04-S - https://vdl.farmos.dev/asset/718
+Imported log for asset: 2021-W37 Lettuce HVW04-N - https://vdl.farmos.dev/asset/719
+Imported log for asset: 2021-W37 Lettuce HVW04-S - https://vdl.farmos.dev/asset/720
+Imported log for asset: 2021-W37 Lettuce SGH2-N - https://vdl.farmos.dev/asset/721
+Imported log for asset: 2021-W37 Mizuna green HVW23-S - https://vdl.farmos.dev/asset/722
+Imported log for asset: 2021-W37 Rucula HVW23-S - https://vdl.farmos.dev/asset/723
+Imported log for asset: 2021-W37 Spinaches HVW23-S - https://vdl.farmos.dev/asset/724
+Row 144: Asset already exists: '2021-W38 Carrot HVE03'
+Imported log for asset: 2021-W38 N.Z. Spinaches HVW23-S - https://vdl.farmos.dev/asset/725
+Imported log for asset: 2021-W38 Rucula SGH2-N - https://vdl.farmos.dev/asset/726
+Imported log for asset: 2021-W38 Spring onion HVE01 - https://vdl.farmos.dev/asset/727
+Imported log for asset: 2021-W38 Spring onion HVE09-N - https://vdl.farmos.dev/asset/728
+Imported log for asset: 2021-W38 Sprouting turnip HVE25-S - https://vdl.farmos.dev/asset/729
+Imported log for asset: 2021-W38 Turnip greens HVE25-S - https://vdl.farmos.dev/asset/730
+Imported log for asset: 2021-W39 Beetroot HVW16 - https://vdl.farmos.dev/asset/731
+Imported log for asset: 2021-W39 Broccoli HVW16-N - https://vdl.farmos.dev/asset/732
+Imported log for asset: 2021-W39 Broccoli HVW16-S - https://vdl.farmos.dev/asset/733
+Imported log for asset: 2021-W39 Curly kale HVW16-N - https://vdl.farmos.dev/asset/734
+Imported log for asset: 2021-W39 Dinosaur kale HVW16-N - https://vdl.farmos.dev/asset/735
+Imported log for asset: 2021-W39 Galega kale HVW16-N - https://vdl.farmos.dev/asset/736
+Imported log for asset: 2021-W39 Leek HVE09-S - https://vdl.farmos.dev/asset/737
+Imported log for asset: 2021-W39 Radishes WGH7 - https://vdl.farmos.dev/asset/738
+Imported log for asset: 2021-W39 Salanova SGH4-N - https://vdl.farmos.dev/asset/739
+Imported log for asset: 2021-W39 Turnip HVW18-S - https://vdl.farmos.dev/asset/740
+Imported log for asset: 2021-W41 Cucumber WGH4 - https://vdl.farmos.dev/asset/741
+Imported log for asset: 2021-W41 Potato HVE08 - https://vdl.farmos.dev/asset/742
+Imported log for asset: 2021-W41 Spinaches HVW15-S - https://vdl.farmos.dev/asset/743
+Imported log for asset: 2021-W41 Zucchini WGH3 - https://vdl.farmos.dev/asset/744
+Imported log for asset: 2021-W41 Zucchini WGH4 - https://vdl.farmos.dev/asset/745
+Imported log for asset: 2021-W42 Beetroot HVE11-N - https://vdl.farmos.dev/asset/746
+Imported log for asset: 2021-W42 Beetroot HVE11-S - https://vdl.farmos.dev/asset/747
+Imported log for asset: 2021-W42 Broccoli HVE11-N - https://vdl.farmos.dev/asset/748
+Imported log for asset: 2021-W42 Coaulifower HVE11-S - https://vdl.farmos.dev/asset/749
+Imported log for asset: 2021-W42 Green cabbage HVE11-S - https://vdl.farmos.dev/asset/750
+Imported log for asset: 2021-W42 Lambs lettuce HVW15-S - https://vdl.farmos.dev/asset/751
+Imported log for asset: 2021-W43 Broad beans HVE14-N - https://vdl.farmos.dev/asset/752
+Imported log for asset: 2021-W43 Coaulifower HVW18-N - https://vdl.farmos.dev/asset/753
+Imported log for asset: 2021-W43 Green cabbage HVW18-N - https://vdl.farmos.dev/asset/754
+Imported log for asset: 2021-W43 Green pea pods HVE14-S - https://vdl.farmos.dev/asset/755
+Imported log for asset: 2021-W43 Green peas HVE14-S - https://vdl.farmos.dev/asset/756
+Imported log for asset: 2021-W43 Horseradish HVE12-N - https://vdl.farmos.dev/asset/757
+Imported log for asset: 2021-W43 Kolrabi HVW18-N - https://vdl.farmos.dev/asset/758
+Imported log for asset: 2021-W43 Lettuce HVE11-N - https://vdl.farmos.dev/asset/759
+Imported log for asset: 2021-W43 Lettuce HVE11-S - https://vdl.farmos.dev/asset/760
+Imported log for asset: 2021-W43 Lettuce HVW18-N - https://vdl.farmos.dev/asset/761
+Imported log for asset: 2021-W43 Radishes HVE13-N - https://vdl.farmos.dev/asset/762
+Imported log for asset: 2021-W43 Spinaches HVE12-N - https://vdl.farmos.dev/asset/763
+Imported log for asset: 2021-W43 Sprouting turnip HVE12-N - https://vdl.farmos.dev/asset/764
+Imported log for asset: 2021-W43 Turnip greens HVE12-N - https://vdl.farmos.dev/asset/765
+Imported log for asset: 2021-W43 Turnip HVE13-N - https://vdl.farmos.dev/asset/766
+Imported log for asset: 2021-W44 Coriander SGH2-N - https://vdl.farmos.dev/asset/767
+Imported log for asset: 2021-W44 Mizuna green SGH2-N - https://vdl.farmos.dev/asset/768
+Imported log for asset: 2021-W44 Pack choi WGH5 - https://vdl.farmos.dev/asset/769
+Imported log for asset: 2021-W45 Chinese cabbage SGH1-N - https://vdl.farmos.dev/asset/770
+Imported log for asset: 2021-W45 Lettuce HVW15-S - https://vdl.farmos.dev/asset/771
+Imported log for asset: 2021-W45 Parsley SGH3-S - https://vdl.farmos.dev/asset/772
+Imported log for asset: 2021-W46 Coriander SGH3-S - https://vdl.farmos.dev/asset/773
+Imported log for asset: 2021-W46 Coriander WGH3 - https://vdl.farmos.dev/asset/774
+Imported log for asset: 2021-W46 Garlic HVE18-N - https://vdl.farmos.dev/asset/775
+Imported log for asset: 2021-W46 Leek HVE09-S - https://vdl.farmos.dev/asset/776
+Imported log for asset: 2021-W46 Leek HVE18-S - https://vdl.farmos.dev/asset/777
+Imported log for asset: 2021-W46 Mizuna green HVE16-N - https://vdl.farmos.dev/asset/778
+Imported log for asset: 2021-W46 Mizuna purple HVE16-N - https://vdl.farmos.dev/asset/779
+Imported log for asset: 2021-W46 Rucula HVE16-N - https://vdl.farmos.dev/asset/780
+Imported log for asset: 2021-W46 Spinaches HVE12-S - https://vdl.farmos.dev/asset/781
+Imported log for asset: 2021-W47 Carrot WGH7 - https://vdl.farmos.dev/asset/782
+Imported log for asset: 2021-W47 Carrot WGH8 - https://vdl.farmos.dev/asset/783
+Imported log for asset: 2021-W47 Lambs lettuce HVE16-N - https://vdl.farmos.dev/asset/784
+Imported log for asset: 2021-W47 Lettuce WGH6 - https://vdl.farmos.dev/asset/785
+Imported log for asset: 2021-W47 Salanova WGH6 - https://vdl.farmos.dev/asset/786
+Imported log for asset: 2021-W47 Spinaches HVE16-S - https://vdl.farmos.dev/asset/787
+Imported log for asset: 2021-W48 Broad beans HVE17 - https://vdl.farmos.dev/asset/788
+Imported log for asset: 2021-W48 Horseradish HVE15-N - https://vdl.farmos.dev/asset/789
+Imported log for asset: 2021-W48 N.Z. Spinaches HVE23-N - https://vdl.farmos.dev/asset/790
+Imported log for asset: 2021-W48 Radishes HVE15-N - https://vdl.farmos.dev/asset/791
+Imported log for asset: 2021-W48 Sprouting turnip HVE12-S - https://vdl.farmos.dev/asset/792
+Imported log for asset: 2021-W48 Turnip greens HVE12-S - https://vdl.farmos.dev/asset/793
+Imported log for asset: 2021-W49 Strawberry HVE05 - https://vdl.farmos.dev/asset/794
+Imported log for asset: 2021-W49 Strawberry HVE06 - https://vdl.farmos.dev/asset/795
+Imported log for asset: 2021-W49 Strawberry HVE07 - https://vdl.farmos.dev/asset/796
+Imported log for asset: 2021-W50 Celery SGH4-S - https://vdl.farmos.dev/asset/797
+Imported log for asset: 2021-W50 Garlic HVE15-S - https://vdl.farmos.dev/asset/798
+Imported log for asset: 2021-W50 Lettuce SGH4-S - https://vdl.farmos.dev/asset/799
+Imported log for asset: 2021-W50 Strawberry HVW24 - https://vdl.farmos.dev/asset/800
+Imported log for asset: 2021-W50 Strawberry HVW25 - https://vdl.farmos.dev/asset/801
+Imported log for asset: 2021-W52 Celery HVE23-N - https://vdl.farmos.dev/asset/802
+Imported log for asset: 2022-W01 Chinese cabbage HVE24-S - https://vdl.farmos.dev/asset/803
+Imported log for asset: 2022-W01 Dill HVE24-N - https://vdl.farmos.dev/asset/804
+Imported log for asset: 2022-W01 Land cress HVE24-N - https://vdl.farmos.dev/asset/805
+Imported log for asset: 2022-W01 Lettuce HVE23-N - https://vdl.farmos.dev/asset/806
+Imported log for asset: 2022-W01 Lettuce HVE23-S - https://vdl.farmos.dev/asset/807
+Imported log for asset: 2022-W01 Lettuce HVE24-S - https://vdl.farmos.dev/asset/808
+Imported log for asset: 2022-W01 Pack choi HVE23-S - https://vdl.farmos.dev/asset/809
+Imported log for asset: 2022-W01 Parsley HVE24-N - https://vdl.farmos.dev/asset/810
+Imported log for asset: 2022-W01 Radishes SGH4-N - https://vdl.farmos.dev/asset/811
+Imported log for asset: 2022-W01 Salanova HVE24-N - https://vdl.farmos.dev/asset/812
+Imported log for asset: 2022-W01 Salanova HVE24-S - https://vdl.farmos.dev/asset/813
+Imported log for asset: 2022-W02 Lettuce SGH3-N - https://vdl.farmos.dev/asset/814
+Imported log for asset: 2022-W02 Onion HVE01 - https://vdl.farmos.dev/asset/815
+Imported log for asset: 2022-W02 Onion HVE02 - https://vdl.farmos.dev/asset/816
+Imported log for asset: 2022-W03 Garlic HVE15-S - https://vdl.farmos.dev/asset/817
+Imported log for asset: 2022-W03 Garlic HVE26-S - https://vdl.farmos.dev/asset/818
+Imported log for asset: 2022-W04 Aubergine WGH7 - https://vdl.farmos.dev/asset/819
+Imported log for asset: 2022-W04 Aubergine WGH8 - https://vdl.farmos.dev/asset/820
+Imported log for asset: 2022-W04 Beetroot HVE16-S - https://vdl.farmos.dev/asset/821
+Imported log for asset: 2022-W04 Carrot WGH5 - https://vdl.farmos.dev/asset/822
+Imported log for asset: 2022-W04 Lettuce HVE13-S - https://vdl.farmos.dev/asset/823
+Imported log for asset: 2022-W04 Potato HVE19 - https://vdl.farmos.dev/asset/824
+Imported log for asset: 2022-W04 Potato HVE20 - https://vdl.farmos.dev/asset/825
+Imported log for asset: 2022-W04 Radishes WGH5 - https://vdl.farmos.dev/asset/826
+Imported log for asset: 2022-W04 Spinaches HVE13-S - https://vdl.farmos.dev/asset/827
+Imported log for asset: 2022-W05 Beetroot HVE21-N - https://vdl.farmos.dev/asset/828
+Imported log for asset: 2022-W05 Chinese cabbage HVE21-S - https://vdl.farmos.dev/asset/829
+Imported log for asset: 2022-W05 Green cabbage HVE21-N - https://vdl.farmos.dev/asset/830
+Imported log for asset: 2022-W05 Kolrabi HVE21-N - https://vdl.farmos.dev/asset/831
+Imported log for asset: 2022-W05 Lambs lettuce HVE21-S - https://vdl.farmos.dev/asset/832
+Imported log for asset: 2022-W05 Mizuna green HVE21-S - https://vdl.farmos.dev/asset/833
+Imported log for asset: 2022-W06 Coriander HVE23-S - https://vdl.farmos.dev/asset/834
+Imported log for asset: 2022-W06 Green cabbage HVE27 - https://vdl.farmos.dev/asset/835
+Imported log for asset: 2022-W06 Horseradish HVE22-S - https://vdl.farmos.dev/asset/836
+Imported log for asset: 2022-W06 Kolrabi HVE27 - https://vdl.farmos.dev/asset/837
+Imported log for asset: 2022-W06 Radishes HVE22-S - https://vdl.farmos.dev/asset/838
+Imported log for asset: 2022-W06 Sprouting turnip HVE22-N - https://vdl.farmos.dev/asset/839
+Imported log for asset: 2022-W06 Turnip greens HVE22-N - https://vdl.farmos.dev/asset/840
+Imported log for asset: 2022-W07 Lettuce HVE27 - https://vdl.farmos.dev/asset/841
+Imported log for asset: 2022-W07 Rucula HVE21-S - https://vdl.farmos.dev/asset/842
+Imported log for asset: 2022-W08 Broccoli HVW03 - https://vdl.farmos.dev/asset/843
+Imported log for asset: 2022-W08 Curly kale HVE14-S - https://vdl.farmos.dev/asset/844
+Imported log for asset: 2022-W08 Dinosaur kale HVE14-S - https://vdl.farmos.dev/asset/845
+Imported log for asset: 2022-W08 Green cabbage HVW14-N - https://vdl.farmos.dev/asset/846
+Imported log for asset: 2022-W08 Parsley SGH4-N - https://vdl.farmos.dev/asset/847
+Imported log for asset: 2022-W08 Purple cabbage HVW14-S - https://vdl.farmos.dev/asset/848
+Imported log for asset: 2022-W09 Beetroot HVW03 - https://vdl.farmos.dev/asset/849
+Imported log for asset: 2022-W09 Beetroot HVW14 - https://vdl.farmos.dev/asset/850
+Imported log for asset: 2022-W09 Cucumber WGH1 - https://vdl.farmos.dev/asset/851
+Imported log for asset: 2022-W09 Lettuce HVW03 - https://vdl.farmos.dev/asset/852
+Imported log for asset: 2022-W09 Lettuce HVW14 - https://vdl.farmos.dev/asset/853
+Imported log for asset: 2022-W09 Spinaches HVE08-S - https://vdl.farmos.dev/asset/854
+Imported log for asset: 2022-W09 Spring onion HVE08-N - https://vdl.farmos.dev/asset/855
+Imported log for asset: 2022-W09 Tomatoes small WGH6 - https://vdl.farmos.dev/asset/856
+Imported log for asset: 2022-W09 Tomatoes varied WGH4 - https://vdl.farmos.dev/asset/857
+Imported log for asset: 2022-W09 Tomatoes varied WGH6 - https://vdl.farmos.dev/asset/858
+Imported log for asset: 2022-W09 Zucchini WGH1 - https://vdl.farmos.dev/asset/859
+Imported log for asset: 2022-W09 Zucchini WGH2 - https://vdl.farmos.dev/asset/860
+Imported log for asset: 2022-W10 Celery SGH1-N - https://vdl.farmos.dev/asset/861
+Imported log for asset: 2022-W10 Chinese cabbage HVE10-S - https://vdl.farmos.dev/asset/862
+Imported log for asset: 2022-W10 Coaulifower HVE26-N - https://vdl.farmos.dev/asset/863
+Imported log for asset: 2022-W10 Lambs lettuce SGH4-S - https://vdl.farmos.dev/asset/864
+Imported log for asset: 2022-W10 Lettuce HVE26-N - https://vdl.farmos.dev/asset/865
+Imported log for asset: 2022-W10 Pack choi HVE22-N - https://vdl.farmos.dev/asset/866
+Imported log for asset: 2022-W10 Radishes SGH3-S - https://vdl.farmos.dev/asset/867
+Imported log for asset: 2022-W10 Tomato roma HVW05 - https://vdl.farmos.dev/asset/868
+Imported log for asset: 2022-W10 Zucchini HVE23-S - https://vdl.farmos.dev/asset/869
+Imported log for asset: 2022-W10 Zucchini HVE24-S - https://vdl.farmos.dev/asset/870
