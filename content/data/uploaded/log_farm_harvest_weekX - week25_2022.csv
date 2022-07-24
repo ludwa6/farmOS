@@ -1,10 +1,10 @@
 species,Areas,Quantity value,Notes,Asset names,Log name,Done,Date,Archive assets,Quantity label,Lot number,Categories,Quantity measure,Quantity unit
-Hokkaido squash,HortasDoVale-East (HDVE) - bed 25,"16,535",,2022-W12 Hokkaido squash HVE25-N,harvest from 2022-W12 Hokkaido squash HVE25-N,true,2022-06-20,,,,plantings,weight,Kg
+Hokkaido squash,HortasDoVale-East (HDVE) - bed 25,"16,535",,2022-W12 Hokkaido squash HVE25,harvest from 2022-W12 Hokkaido squash HVE25,true,2022-06-20,,,,plantings,weight,Kg
 Swiss chard,HortasDoVale-East (HDVE) - bed 14 north section,"15,6",,2022-W20 Swiss chard HVE14-N,harvest from 2022-W20 Swiss chard HVE14-N,true,2022-06-20,,,,plantings,weight,Kg
 Celery,Summer Green House (SGH) - bed 1 north section,"1,8",,2022-W10 Celery SGH1-N,harvest from 2022-W10 Celery SGH1-N,true,2022-06-20,,,,plantings,weight,Kg
 Lettuce,HortasDoVale-West (HDVW) - bed 5,11,,2022-W20 Lettuce HVW05,harvest from 2022-W20 Lettuce HVW05,true,2022-06-20,,,,plantings,weight,Kg
 Lettuce,HortasDoVale-West (HDVW) - bed 8,"14,7",,2022-W14 Lettuce HVW08,harvest from 2022-W14 Lettuce HVW08,true,2022-06-20,,,,plantings,weight,Kg
-Potato,HortasDoVale-East (HDVE) - bed 20,40,,2022-W04 Potato HVE20,harvest from 2022-W04 Potato HVE20,true,2022-06-20,,,,plantings,weight,Kg
+Potato,HortasDoVale-East (HDVE) - bed 20,"162,7",,2022-W04 Potato HVE20,harvest from 2022-W04 Potato HVE20,true,2022-06-20,,,,plantings,weight,Kg
 Aubergine,HortasDoVale-West (HDVW) - bed 3,"2,5",,2022-W16 Aubergine HVW03,harvest from 2022-W16 Aubergine HVW03,true,2022-06-20,,,,plantings,weight,Kg
 Aubergine,HortasDoVale-West (HDVW) - bed 5,10,,2022-W19 Aubergine HVW05,harvest from 2022-W19 Aubergine HVW05,true,2022-06-20,,,,plantings,weight,Kg
 Aubergine,Winter Green House - bed 7,"0,8",,2022-W04 Aubergine WGH7,harvest from 2022-W04 Aubergine WGH7,true,2022-06-20,,,,plantings,weight,Kg
@@ -45,7 +45,7 @@ Cucumber,Winter Green House - bed 5,"3,48",,2022-W13 Cucumber WGH5,harvest from 
 Radishes,HortasDoVale-East (HDVE) - bed 8 south section,"1,8",,2022-W21 Radishes HVE08-S,harvest from 2022-W21 Radishes HVE08-S,true,2022-06-20,,,,plantings,weight,Kg
 Horseradish,HortasDoVale-East (HDVE) - bed 18 north section,"8,2",,2022-W14 Horseradish HVE18-N,harvest from 2022-W14 Horseradish HVE18-N,true,2022-06-20,,,,plantings,weight,Kg
 Rucula,HortasDoVale-East (HDVE) - bed 24 south section,4,,2022-W19 Rucula HVE24-S,harvest from 2022-W19 Rucula HVE24-S,true,2022-06-20,,,,plantings,weight,Kg
-Parsley,Summer Green House (SGH) - bed 2 north section,"0,6",,2021-W08 Parsley SGH2-N,harvest from 2021-W08 Parsley SGH2-N,true,2022-06-20,,,,plantings,weight,Kg
+Parsley,Summer Green House (SGH) - bed 2 north section,"0,6",,2022-W08 Parsley SGH2-N,harvest from 2022-W08 Parsley SGH2-N,true,2022-06-20,,,,plantings,weight,Kg
 Parsley,Summer Green House (SGH) - bed 4 north section,"0,5",,2021-W29 Parsley SGH4-N,harvest from 2021-W29 Parsley SGH4-N,true,2022-06-20,,,,plantings,weight,Kg
 Tomato roma,HortasDoVale-West (HDVW) - bed 6,"14,08",,2022-W10 Tomato roma HVW06,harvest from 2022-W10 Tomato roma HVW06,true,2022-06-20,,,,plantings,weight,Kg
 Tomatoes small,HortasDoVale-West (HDVW) - bed 10,"0,17",,2022-W17 Tomatoes small HVW10,harvest from 2022-W17 Tomatoes small HVW10,true,2022-06-20,,,,plantings,weight,Kg
@@ -54,3 +54,97 @@ Tomatoes small,HortasDoVale-West (HDVW) - bed 6,"3,4",,2022-W10 Tomatoes small H
 Tomatoes small,Winter Green House - bed 6,"3,11",,2021-W14 Tomatoes small WGH6,harvest from 2021-W14 Tomatoes small WGH6,true,2022-06-20,,,,plantings,weight,Kg
 Tomatoes varied,Winter Green House - bed 4,"18,95",,2022-W09 Tomatoes varied WGH4,harvest from 2022-W09 Tomatoes varied WGH4,true,2022-06-20,,,,plantings,weight,Kg
 Tomatoes varied,Winter Green House - bed 6,"7,19",,2021-W14 Tomatoes varied WGH6,harvest from 2021-W14 Tomatoes varied WGH6,true,2022-06-20,,,,plantings,weight,Kg
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
