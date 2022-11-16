@@ -1,0 +1,52 @@
+species,Areas,Quantity value,Notes,Asset names,Log name,Done,Date,Archive assets,Quantity label,Lot number,Categories,Quantity measure,Quantity unit
+Butternut squash,HortasDoVale-West (HDVW) - bed 19,"3,1",,2022-W30 Butternut squash HVW19,harvest from 2022-W30 Butternut squash HVW19,true,2022-10-10,,,,plantings,weight,Kg
+Hokkaido squash,HortasDoVale-West (HDVW) - bed 19,"4,8",,2022-W30 Hokkaido squash HVW19,harvest from 2022-W30 Hokkaido squash HVW19,true,2022-10-10,,,,plantings,weight,Kg
+Muscade Pumpkin,HortasDoVale-East (HDVE) - bed 12,"98,16",,2022-W13 Muscade Pumpkin HVE12,harvest from 2022-W13 Muscade Pumpkin HVE12,true,2022-10-10,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-East (HDVE) - bed 14 north section,"2,5",,2022-W20 Swiss chard HVE14-N,harvest from 2022-W20 Swiss chard HVE14-N,true,2022-10-10,,,,plantings,weight,Kg
+Swiss chard,HortasDoVale-West (HDVW) - bed 7 north section,7,,2022-W11 Swiss chard HVW07-N,harvest from 2022-W11 Swiss chard HVW07-N,true,2022-10-10,,,,plantings,weight,Kg
+Celery,Summer Green House (SGH) - bed 4 north section,"8,9",,2022-W27 Celery SGH4-N,harvest from 2022-W27 Celery SGH4-N,true,2022-10-10,,,,plantings,weight,Kg
+Celery,HortasDoVale-West (HDVW) - bed 13 north section,"0,8",,2022-W22 Celery HVW13-N,harvest from 2022-W22 Celery HVW13-N,true,2022-10-10,,,,plantings,weight,Kg
+Lettuce,HortasDoVale-East (HDVE) - bed 18 north section,"8,2",,2022-W37 Lettuce HVE18-N,harvest from 2022-W37 Lettuce HVE18-N,true,2022-10-10,,,,plantings,weight,Kg
+Leek,HortasDoVale-East (HDVE) - bed 3,"11,1",,2022-W28 Leek HVE03,harvest from 2022-W28 Leek HVE03,true,2022-10-10,,,,plantings,weight,Kg
+Potato,HortasDoVale-East (HDVE) - bed 10,22,,2022-W30 Potato HVE10,harvest from 2022-W30 Potato HVE10,true,2022-10-10,,,,plantings,weight,Kg
+Aubergine,HortasDoVale-East (HDVE) - bed 1 north section,"10,5",,2022-W29 Aubergine HVE01-N,harvest from 2022-W29 Aubergine HVE01-N,true,2022-10-10,,,,plantings,weight,Kg
+Aubergine,HortasDoVale-West (HDVW) - bed 3,"1,3",,2022-W16 Aubergine HVW03,harvest from 2022-W16 Aubergine HVW03,true,2022-10-10,,,,plantings,weight,Kg
+Aubergine,HortasDoVale-West (HDVW) - bed 5,"4,1",,2022-W19 Aubergine HVW05,harvest from 2022-W19 Aubergine HVW05,true,2022-10-10,,,,plantings,weight,Kg
+Beetroot,HortasDoVale-East (HDVE) - bed 11,"10,6",,2021-W42 Beetroot HVE11-N,harvest from 2021-W42 Beetroot HVE11-N,true,2022-10-10,,,,plantings,weight,Kg
+Spring onion,HortasDoVale-East (HDVE) - bed 16 north section,"7,54",,2022-W30 Spring onion HVE16-N,harvest from 2022-W30 Spring onion HVE16-N,true,2022-10-10,,,,plantings,weight,Kg
+Chives,Summer Green House (SGH) - bed 3 north section,"0,95",,2022-W12 Chives SGH3-N,harvest from 2022-W12 Chives SGH3-N,true,2022-10-10,,,,plantings,weight,Kg
+Curly kale,HortasDoVale-East (HDVE) - bed 14 south section,"2,1",,2022-W08 Curly kale HVE14-S,harvest from 2022-W08 Curly kale HVE14-S,true,2022-10-10,,,,plantings,weight,Kg
+Kolrabi,HortasDoVale-East (HDVE) - bed 11,"27,9",,2022-W33 Kolrabi HVE11,harvest from 2022-W33 Kolrabi HVE11,true,2022-10-10,,,,plantings,weight,Kg
+Dinosaur kale,HortasDoVale-East (HDVE) - bed 14 south section,6,,2022-W08 Dinosaur kale HVE14-S,harvest from 2022-W08 Dinosaur kale HVE14-S,true,2022-10-10,,,,plantings,weight,Kg
+Dinosaur kale,HortasDoVale-East (HDVE) - bed 15 south section,"2,75",,2022-W32 Dinosaur kale HVE15-S,harvest from 2022-W32 Dinosaur kale HVE15-S,true,2022-10-10,,,,plantings,weight,Kg
+Dinosaur kale,Summer Green House (SGH) - bed 1 south section,"2,1",,2022-W34 Dinosaur kale SGH1-S,harvest from 2022-W34 Dinosaur kale SGH1-S,true,2022-10-10,,,,plantings,weight,Kg
+Chinese cabbage,Summer Green House (SGH) - bed 2 north section,6,,2022-W34 Chinese cabbage SGH2-N,harvest from 2022-W34 Chinese cabbage SGH2-N,true,2022-10-10,,,,plantings,weight,Kg
+Zucchini,HortasDoVale-East (HDVE) - bed 8 south section,"5,1",,2022-W33 Zucchini HVE08-S,harvest from 2022-W33 Zucchini HVE08-S,true,2022-10-10,,,,plantings,weight,Kg
+Zucchini,HortasDoVale-West (HDVW) - bed 20 south section,"3,3",,2022-W30 Zucchini HVW20-S,harvest from 2022-W30 Zucchini HVW20-S,true,2022-10-10,,,,plantings,weight,Kg
+Spinaches,HortasDoVale-East (HDVE) - bed 23 north section,"5,4",,2021-W48 N.Z. Spinaches HVE23-N,harvest from 2021-W48 N.Z. Spinaches HVE23-N,true,2022-10-10,,,,plantings,weight,Kg
+Fennel,HortasDoVale-East (HDVE) - bed 2 north section,"1,1",,2022-W30 Fennel bulb HVE02-N,harvest from 2022-W30 Fennel bulb HVE02-N,true,2022-10-10,,,,plantings,weight,Kg
+Fennel,HortasDoVale-East (HDVE) - bed 2 north section,"9,7",,2022-W30 Fennel bulb HVE02-N,harvest from 2022-W30 Fennel bulb HVE02-N,true,2022-10-10,,,,plantings,weight,Kg
+Rapini,HortasDoVale-East (HDVE) - bed 4 south section,"0,25",,2022-W35 Rapini HVE04-S,harvest from 2022-W35 Rapini HVE04-S,true,2022-10-10,,,,plantings,weight,Kg
+Hot peppers,HortasDoVale-West (HDVW) - bed 20 south section,"0,13",,2021-W24 Hot peppers HVW20-S,harvest from 2021-W24 Hot peppers HVW20-S,true,2022-10-10,,,,plantings,weight,Kg
+Basil,HortasDoVale-West (HDVW) - bed 15 north section,"2,46",,2022-W21 Basil HVW15-N,harvest from 2022-W21 Basil HVW15-N,true,2022-10-10,,,,plantings,weight,Kg
+Sweet corn,HortasDoVale-East (HDVE) - bed 10,"10,6",,2022-W30 Sweet corn HVE10,harvest from 2022-W30 Sweet corn HVE10,true,2022-10-10,,,,plantings,weight,Kg
+Mizuna purple,HortasDoVale-East (HDVE) - bed 23 south section,"1,3",,2022-W27 Mizuna purple HVE23-S,harvest from 2022-W27 Mizuna purple HVE23-S,true,2022-10-10,,,,plantings,weight,Kg
+Mizuna green,HortasDoVale-East (HDVE) - bed 23 south section,"1,8",,2022-W27 Mizuna green HVE23-S,harvest from 2022-W27 Mizuna green HVE23-S,true,2022-10-10,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-East (HDVE) - bed 5,"0,33",,2021-W49 Strawberry HVE05,harvest from 2021-W49 Strawberry HVE05,true,2022-10-10,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-East (HDVE) - bed 6,"0,35",,2021-W49 Strawberry HVE06,harvest from 2021-W49 Strawberry HVE06,true,2022-10-10,,,,plantings,weight,Kg
+Strawberry,HortasDoVale-East (HDVE) - bed 7,"0,33",,2021-W49 Strawberry HVE07,harvest from 2021-W49 Strawberry HVE07,true,2022-10-10,,,,plantings,weight,Kg
+Pack choi,Summer Green House (SGH) - bed 2 north section,"5,6",,2022-W34 Pack choi SGH2-N,harvest from 2022-W34 Pack choi SGH2-N,true,2022-10-10,,,,plantings,weight,Kg
+Cucumber,HortasDoVale-East (HDVE) - bed 8 south section,"0,1",,2022-W33 Cucumber HVE08-S,harvest from 2022-W33 Cucumber HVE08-S,true,2022-10-10,,,,plantings,weight,Kg
+Cucumber,HortasDoVale-West (HDVW) - bed 20 south section,"0,15",,2022-W30 Cucumber HVW20-S,harvest from 2022-W30 Cucumber HVW20-S,true,2022-10-10,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 12,"0,33",,2022-W17 Peppers HVW12,harvest from 2022-W17 Peppers HVW12,true,2022-10-10,,,,plantings,weight,Kg
+Padron peppers,HortasDoVale-West (HDVW) - bed 12 south section,"0,68",,2022-W17 Padron peppers HVW12-S,harvest from 2022-W17 Padron peppers HVW12-S,true,2022-10-10,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 10,"1,9",,2022-W17 Peppers HVW10,harvest from 2022-W17 Peppers HVW10,true,2022-10-10,,,,plantings,weight,Kg
+Peppers,HortasDoVale-West (HDVW) - bed 12,1,,2022-W17 Peppers HVW12,harvest from 2022-W17 Peppers HVW12,true,2022-10-10,,,,plantings,weight,Kg
+Radishes,HortasDoVale-East (HDVE) - bed 23 north section,3,,2022-W36 Radishes HVE23-N,harvest from 2022-W36 Radishes HVE23-N,true,2022-10-10,,,,plantings,weight,Kg
+Rucula,HortasDoVale-East (HDVE) - bed 23 north section,"0,8",,2022-W14 Rucula HVE23-N,harvest from 2022-W14 Rucula HVE23-N,true,2022-10-10,,,,plantings,weight,Kg
+Parsley,HortasDoVale-East (HDVE) - bed 2 north section,1,,2022-W29 Parsley HVE02-N,harvest from 2022-W29 Parsley HVE02-N,true,2022-10-10,,,,plantings,weight,Kg
+Parsley,HortasDoVale-West (HDVW) - bed 13 north section,"2,2",,2022-W22 Parsley HVW13-N,harvest from 2022-W22 Parsley HVW13-N,true,2022-10-10,,,,plantings,weight,Kg
+Tomatoes small,HortasDoVale-West (HDVW) - bed 15,"3,78",,2022-W21 Tomatoes small HVW15,harvest from 2022-W21 Tomatoes small HVW15,true,2022-10-10,,,,plantings,weight,Kg
+Tomatoes small,HortasDoVale-West (HDVW) - bed 20 north section,"1,75",,2022-W30 Tomatoes small HVW20-N,harvest from 2022-W30 Tomatoes small HVW20-N,true,2022-10-10,,,,plantings,weight,Kg
+Tomatoes varied,HortasDoVale-West (HDVW) - bed 15,"12,5",,2022-W21 Tomatoes varied HVW15,harvest from 2022-W21 Tomatoes varied HVW15,true,2022-10-10,,,,plantings,weight,Kg
+Tomatoes varied,HortasDoVale-West (HDVW) - bed 20 north section,"6,7",,2022-W30 Tomatoes varied HVW20-N,harvest from 2022-W30 Tomatoes varied HVW20-N,true,2022-10-10,,,,plantings,weight,Kg
